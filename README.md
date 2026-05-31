@@ -41,6 +41,27 @@
         *   `Ⅳ. 金融與銀行操作`
         *   `Ⅴ. 描述、程度與副詞`
 
+### 4. 🎮 [第四部分：本地智慧刷題系統](file:///D:/StudyJapanese/index.html)
+*   **收錄內容與功能**：
+    *   [index.html](file:///D:/StudyJapanese/index.html)：網頁端互動刷題面板，支持讀音選擇、釋義選擇、自他動詞配對及句子填空題。
+    *   [scratch/update_questions.py](file:///D:/StudyJapanese/scratch/update_questions.py)：本地 Python 題庫生成與更新腳本，讀取第三部分詞彙表自動編譯生成題目。
+    *   [questions.js](file:///D:/StudyJapanese/questions.js)：存放編譯後題庫數據的 JavaScript 檔案（已在 [.gitignore](file:///D:/StudyJapanese/.gitignore) 中設定忽略，切勿提交至 Git）。
+
+---
+
+## 🎮 本地智慧刷題系統使用指南 (Local Quiz App Guide)
+
+為了配合日常筆記更新並隨時練習，本系統配備了本地互動式網頁刷題系統。
+
+### 🔄 題庫更新流程與使用步驟
+1.  **更新筆記**：在 [第三部分：自他動詞與分類詞彙表](file:///D:/StudyJapanese/3_N2_Vocabulary_Bank_and_Verbs.md) 中新增或修改單字。
+2.  **重新編譯題庫**：在終端機中執行以下命令，以執行 Python 腳本更新題庫數據：
+    ```bash
+    python scratch/update_questions.py
+    ```
+    該腳本會解析單字表中的優先級、漢字、讀音、釋義及記憶要點中的例句，自動生成對應的四種題型並寫入 [questions.js](file:///D:/StudyJapanese/questions.js)。
+3.  **開啟網頁刷題**：在瀏覽器中直接開啟 [index.html](file:///D:/StudyJapanese/index.html) 即可開始練習！錯題會顯示詳盡的解答說明，答對則自動進入下一題。
+
 ---
 
 ## 🛠️ AI 歸檔與更新指令 (Instruction for AI)
@@ -66,8 +87,9 @@
 2.  新加入的單字表格格式需與原有表格保持一致：
     `| 優先級 | 漢字 | 讀音 | 中文釋義 | 記憶要點 / 例句 |`
 
-### 🧹 步驟四：清空緩衝區與 Git 提交
+### 🧹 步驟四：清空緩衝區與 Git 提交與更新提示
 1.  當成功將筆記歸檔至對應的 Markdown 文件後，應將 [note.txt](file:///D:/StudyJapanese/note.txt) 內容清空重置，僅保留 `# 在此輸入你的新筆記` 與一行空行。
 2.  使用 Git 命令將修改後的 `.md` 檔案進行 stage 與 commit，確保工作目錄乾淨。
-3.  ⚠️ **注意**：測驗卷檔案（如 `Transitive_Intransitive_Quiz.html`）絕對不可提交至 Git，必須保持 untracked。
+3.  ⚠️ **注意**：動態生成的題庫檔案 [questions.js](file:///D:/StudyJapanese/questions.js) 絕對不可提交至 Git，已在 [.gitignore](file:///D:/StudyJapanese/.gitignore) 中設定忽略。
+4.  📢 **提醒更新**：每次 AI 歸檔筆記並重置 `note.txt` 後，**必須在對話結尾主動提醒用戶在本地執行 `python scratch/update_questions.py`**，以確保新增的單字能同步編譯至網頁刷題系統。
 
