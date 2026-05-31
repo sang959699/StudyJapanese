@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT N2 核心智能刷題系統 🌸</title>
+    <!-- 引入高質感字體 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: rgba(22, 28, 45, 0.65);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --accent-primary: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --accent-gradient: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --color-success: #10b981;
+            --color-error: #ef4444;
+            --font-outfit: 'Outfit', 'Noto Sans TC', sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-outfit);
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(59, 130, 246, 0.1) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.1) 0px, transparent 50%);
+        }
+
+        header {
+            width: 100%;
+            max-width: 700px;
+            padding: 24px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .logo-icon {
+            font-size: 24px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        h1 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .stats-badge {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--card-border);
+            padding: 6px 12px;
+            border-radius: 99px;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            backdrop-filter: blur(8px);
+        }
+
+        .streak-count {
+            color: #f59e0b;
+            font-weight: 700;
+        }
+
+        main {
+            width: 100%;
+            max-width: 700px;
+            padding: 0 16px 40px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        /* 模式選擇卡片 */
+        #mode-selector-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 24px;
+            padding: 32px;
+            backdrop-filter: blur(16px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .selector-title {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 8px;
+        }
+
+        .selector-subtitle {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-bottom: 28px;
+        }
+
+        .mode-options {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 16px;
+        }
+
+        .mode-btn {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--card-border);
+            padding: 20px;
+            border-radius: 16px;
+            color: var(--text-main);
+            font-family: var(--font-outfit);
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .mode-btn:hover {
+            background: rgba(59, 130, 246, 0.08);
+            border-color: rgba(59, 130, 246, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .mode-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .mode-name {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .mode-desc {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .mode-count {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 4px 10px;
+            border-radius: 99px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        /* 答題卡片 */
+        #quiz-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 24px;
+            padding: 28px;
+            backdrop-filter: blur(16px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            display: none;
+            flex-direction: column;
+            animation: fadeIn 0.4s ease-out;
+        }
+
+        /* 進度條 */
+        .progress-bar-container {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 99px;
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            width: 0%;
+            background: var(--accent-gradient);
+            border-radius: 99px;
+            transition: width 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .quiz-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+        }
+
+        .question-number {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+
+        .priority-badge {
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+
+        .priority-🔴 { background: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.3); }
+        .priority-🟡 { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
+        .priority-🟢 { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
+
+        .question-text {
+            font-size: 1.25rem;
+            font-weight: 700;
+            line-height: 1.6;
+            margin-bottom: 28px;
+            white-space: pre-wrap;
+        }
+
+        .options-list {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .option-btn {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 16px 20px;
+            color: var(--text-main);
+            font-family: var(--font-outfit);
+            font-size: 1rem;
+            font-weight: 500;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            outline: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .option-btn:hover:not(.disabled) {
+            background: rgba(255, 255, 255, 0.06);
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateX(4px);
+        }
+
+        .option-btn.correct {
+            background: rgba(16, 185, 129, 0.15) !important;
+            border-color: var(--color-success) !important;
+            color: #34d399 !important;
+            font-weight: 700;
+        }
+
+        .option-btn.wrong {
+            background: rgba(239, 68, 68, 0.15) !important;
+            border-color: var(--color-error) !important;
+            color: #f87171 !important;
+            font-weight: 700;
+        }
+
+        .option-btn.disabled {
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+
+        /* 答題回饋區 */
+        .feedback-area {
+            display: none;
+            margin-top: 8px;
+            animation: slideDown 0.3s ease-out;
+        }
+
+        .explanation-box {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 4px solid var(--accent-primary);
+            padding: 16px;
+            border-radius: 0 12px 12px 0;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            margin-bottom: 24px;
+            white-space: pre-wrap;
+        }
+
+        .next-btn {
+            background: var(--accent-gradient);
+            border: none;
+            border-radius: 12px;
+            padding: 16px;
+            color: #fff;
+            font-family: var(--font-outfit);
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: opacity 0.2s ease, transform 0.2s ease;
+            box-shadow: 0 4px 14px rgba(59, 130, 246, 0.4);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .next-btn:hover {
+            opacity: 0.9;
+            transform: translateY(-1px);
+        }
+
+        /* 報告/結算卡片 */
+        #report-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 24px;
+            padding: 40px 32px;
+            backdrop-filter: blur(16px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            display: none;
+            flex-direction: column;
+            text-align: center;
+            animation: scaleIn 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .report-emoji {
+            font-size: 4rem;
+            margin-bottom: 16px;
+        }
+
+        .report-title {
+            font-size: 1.75rem;
+            font-weight: 800;
+            margin-bottom: 8px;
+        }
+
+        .report-score {
+            font-size: 3rem;
+            font-weight: 800;
+            color: var(--accent-primary);
+            margin: 20px 0;
+        }
+
+        .report-details {
+            display: flex;
+            justify-content: space-around;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 16px;
+            margin-bottom: 32px;
+        }
+
+        .detail-item {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .detail-label {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .detail-value {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .action-btns {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 16px;
+            color: var(--text-main);
+            font-family: var(--font-outfit);
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        footer {
+            padding: 24px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-align: center;
+        }
+
+        /* 動畫效果 */
+        @keyframes float {
+            0% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-6px) rotate(5deg); }
+            100% { transform: translateY(0px) rotate(0deg); }
+        }
+
+        @keyframes slideUp {
+            from { transform: translateY(30px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes scaleIn {
+            from { transform: scale(0.95); opacity: 0; }
+            to { transform: scale(1); opacity: 1; }
+        }
+
+        /* 答錯抖動動畫 */
+        .shake {
+            animation: shake 0.4s ease-in-out;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            20%, 60% { transform: translateX(-8px); }
+            40%, 80% { transform: translateX(8px); }
+        }
+
+        /* 答對綠光波 */
+        .success-glow {
+            box-shadow: 0 0 20px rgba(16, 185, 129, 0.4);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-area" id="home-link" style="cursor: pointer;">
+            <span class="logo-icon">🌸</span>
+            <h1>N2 智能題庫</h1>
+        </div>
+        <div class="stats-badge">
+            <span>🔥 連續答對: <span class="streak-count" id="streak-display">0</span></span>
+        </div>
+    </header>
+
+    <main>
+        <!-- 1. 模式選擇卡片 -->
+        <div id="mode-selector-card">
+            <h2 class="selector-title">選擇學習模式</h2>
+            <p class="selector-subtitle">Based on 你的日文筆記，挑戰隨機生成的題庫</p>
+            <div class="mode-options">
+                <button class="mode-btn" id="btn-mode-all">
+                    <div class="mode-info">
+                        <span class="mode-name">隨機全刷模式</span>
+                        <span class="mode-desc">打亂所有題型，進行全面綜合演練</span>
+                    </div>
+                    <span class="mode-count" id="count-all">0</span>
+                </button>
+                <button class="mode-btn" id="btn-mode-priority">
+                    <div class="mode-info">
+                        <span class="mode-name">核心突破 (🔴+🟡)</span>
+                        <span class="mode-desc">只練習高優先級與易錯的核心詞彙</span>
+                    </div>
+                    <span class="mode-count" id="count-priority">0</span>
+                </button>
+                <button class="mode-btn" id="btn-mode-wrong">
+                    <div class="mode-info">
+                        <span class="mode-name">錯題本重練</span>
+                        <span class="mode-desc">集中火力複習你曾答錯的題目</span>
+                    </div>
+                    <span class="mode-count" id="count-wrong" style="background: rgba(239, 68, 68, 0.2); color: #f87171;">0</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- 2. 答題卡片 -->
+        <div id="quiz-card">
+            <div class="progress-bar-container">
+                <div class="progress-bar-fill" id="quiz-progress-fill"></div>
+            </div>
+            <div class="quiz-header">
+                <span class="question-number" id="q-counter">Question 1 of 10</span>
+                <span class="priority-badge" id="q-priority">🔴 核心</span>
+            </div>
+            <div class="question-text" id="q-text">
+                加載中...
+            </div>
+            <div class="options-list" id="q-options">
+                <!-- 按鈕動態渲染 -->
+            </div>
+            <div class="feedback-area" id="quiz-feedback">
+                <div class="explanation-box" id="q-explanation">
+                    解析加載中...
+                </div>
+                <button class="next-btn" id="btn-next" style="width: 100%;">
+                    <span>下一題</span> ➔
+                </button>
+            </div>
+        </div>
+
+        <!-- 3. 結算卡片 -->
+        <div id="report-card">
+            <div class="report-emoji" id="report-emoji">🏆</div>
+            <h2 class="report-title" id="report-title">挑戰完成！</h2>
+            <div class="report-score" id="report-score">80%</div>
+            <div class="report-details">
+                <div class="detail-item">
+                    <span class="detail-label">答對題數</span>
+                    <span class="detail-value" id="val-correct">8 / 10</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">連續答對</span>
+                    <span class="detail-value" id="val-streak">5 次</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">累計錯題</span>
+                    <span class="detail-value" id="val-wrong-count">3 題</span>
+                </div>
+            </div>
+            <div class="action-btns">
+                <button class="btn-secondary" id="btn-go-home">回主選單</button>
+                <button class="next-btn" id="btn-retry-wrong" style="box-shadow: none;">重做錯題</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        JLPT N2 核心題庫系統 · 本地存儲與解析運行 🌸
+    </footer>
+
+    <!-- 引入題庫數據 -->
+    <script src="questions.js"></script>
+    <script>
+        // 本地存儲數據鍵名
+        const STORAGE_KEY_WRONG_QS = "n2_quiz_wrong_questions_v1";
+        const STORAGE_KEY_STREAK = "n2_quiz_max_streak_v1";
+
+        // 全局狀態管理
+        let currentMode = "all"; // all, priority, wrong
+        let questionsToPlay = [];
+        let currentIndex = 0;
+        let correctCount = 0;
+        let currentStreak = 0;
+        let maxStreak = parseInt(localStorage.getItem(STORAGE_KEY_STREAK) || "0");
+        let wrongQuestionsIds = JSON.parse(localStorage.getItem(STORAGE_KEY_WRONG_QS) || "[]");
+        let hasAnswered = false;
+
+        // 生成唯一問題 ID (簡單雜湊)
+        function getQuestionId(q) {
+            let str = q.question + q.answer;
+            let hash = 0;
+            for (let i = 0; i < str.length; i++) {
+                hash = (hash << 5) - hash + str.charCodeAt(i);
+                hash |= 0;
+            }
+            return "q_" + hash;
+        }
+
+        // 初始化主畫面
+        function initApp() {
+            // 安全載入題庫
+            if (typeof questionBank === 'undefined' || !Array.isArray(questionBank)) {
+                document.getElementById("q-text").innerHTML = "❌ 找不到題庫數據！請確保已在本地運行了 `python scratch/update_questions.py`，且生成了 `questions.js`。";
+                document.getElementById("mode-selector-card").style.display = "none";
+                document.getElementById("quiz-card").style.display = "flex";
+                return;
+            }
+
+            // 更新主選單的題數資訊
+            document.getElementById("count-all").innerText = questionBank.length + " 題";
+            
+            const priorityCount = questionBank.filter(q => q.priority === "🔴" || q.priority === "🟡").length;
+            document.getElementById("count-priority").innerText = priorityCount + " 題";
+            
+            // 清理已不存在於題庫中的錯題
+            const allQIds = questionBank.map(q => getQuestionId(q));
+            wrongQuestionsIds = wrongQuestionsIds.filter(id => allQIds.includes(id));
+            localStorage.setItem(STORAGE_KEY_WRONG_QS, JSON.stringify(wrongQuestionsIds));
+            document.getElementById("count-wrong").innerText = wrongQuestionsIds.length + " 題";
+
+            // 回復連續答對狀態
+            document.getElementById("streak-display").innerText = currentStreak;
+        }
+
+        // 開始挑戰
+        function startQuiz(mode) {
+            currentMode = mode;
+            currentIndex = 0;
+            correctCount = 0;
+            hasAnswered = false;
+            
+            let sourcePool = [];
+            if (mode === "all") {
+                sourcePool = [...questionBank];
+            } else if (mode === "priority") {
+                sourcePool = questionBank.filter(q => q.priority === "🔴" || q.priority === "🟡");
+            } else if (mode === "wrong") {
+                sourcePool = questionBank.filter(q => wrongQuestionsIds.includes(getQuestionId(q)));
+            }
+
+            if (sourcePool.length === 0) {
+                alert("目前模式下沒有可用的題目！");
+                return;
+            }
+
+            // 洗牌並抽取最多 15 題
+            shuffleArray(sourcePool);
+            questionsToPlay = sourcePool.slice(0, 15);
+
+            // 切換視圖
+            document.getElementById("mode-selector-card").style.display = "none";
+            document.getElementById("report-card").style.display = "none";
+            document.getElementById("quiz-card").style.display = "flex";
+
+            loadQuestion();
+        }
+
+        // 載入當前問題
+        function loadQuestion() {
+            hasAnswered = false;
+            document.getElementById("quiz-feedback").style.display = "none";
+            
+            const currentQ = questionsToPlay[currentIndex];
+            const qId = getQuestionId(currentQ);
+
+            // 移除上一次的特效
+            const quizCard = document.getElementById("quiz-card");
+            quizCard.classList.remove("shake", "success-glow");
+
+            // 更新計數器與進度條
+            document.getElementById("q-counter").innerText = `Question ${currentIndex + 1} of ${questionsToPlay.length}`;
+            const progressPercent = (currentIndex / questionsToPlay.length) * 100;
+            document.getElementById("quiz-progress-fill").style.width = `${progressPercent}%`;
+
+            // 更新優先級 Badge
+            const priorityBadge = document.getElementById("q-priority");
+            priorityBadge.className = `priority-badge priority-${currentQ.priority}`;
+            priorityBadge.innerText = currentQ.priority === "🔴" ? "🔴 核心" : currentQ.priority === "🟡" ? "🟡 常考" : "🟢 基礎";
+
+            // 渲染題目文字
+            document.getElementById("q-text").innerText = currentQ.question;
+
+            // 渲染選項
+            const optionsContainer = document.getElementById("q-options");
+            optionsContainer.innerHTML = "";
+
+            currentQ.options.forEach((opt, idx) => {
+                const btn = document.createElement("button");
+                btn.className = "option-btn";
+                btn.id = `opt-btn-${idx}`;
+                btn.innerText = opt;
+                btn.onclick = () => selectOption(btn, opt, currentQ);
+                optionsContainer.appendChild(btn);
+            });
+        }
+
+        // 選擇答案
+        function selectOption(clickedBtn, selectedVal, questionObj) {
+            if (hasAnswered) return;
+            hasAnswered = true;
+
+            const isCorrect = (selectedVal === questionObj.answer);
+            const quizCard = document.getElementById("quiz-card");
+            const qId = getQuestionId(questionObj);
+
+            // 禁用所有按鈕
+            const allOptionBtns = document.querySelectorAll(".option-btn");
+            allOptionBtns.forEach(btn => btn.classList.add("disabled"));
+
+            if (isCorrect) {
+                // 答對特效
+                clickedBtn.classList.add("correct");
+                quizCard.classList.add("success-glow");
+                correctCount++;
+                currentStreak++;
+                document.getElementById("streak-display").innerText = currentStreak;
+
+                // 移除可能存在的錯題本記錄
+                wrongQuestionsIds = wrongQuestionsIds.filter(id => id !== qId);
+            } else {
+                // 答錯特效
+                clickedBtn.classList.add("wrong");
+                quizCard.classList.add("shake");
+                currentStreak = 0;
+                document.getElementById("streak-display").innerText = currentStreak;
+
+                // 亮起正確答案
+                allOptionBtns.forEach(btn => {
+                    if (btn.innerText === questionObj.answer) {
+                        btn.classList.add("correct");
+                    }
+                });
+
+                // 加入錯題本
+                if (!wrongQuestionsIds.includes(qId)) {
+                    wrongQuestionsIds.push(qId);
+                }
+            }
+
+            // 寫入錯題與連續答對記錄到 localStorage
+            localStorage.setItem(STORAGE_KEY_WRONG_QS, JSON.stringify(wrongQuestionsIds));
+            if (currentStreak > maxStreak) {
+                maxStreak = currentStreak;
+                localStorage.setItem(STORAGE_KEY_STREAK, maxStreak.toString());
+            }
+
+            // 顯示解析與下一題按鈕
+            document.getElementById("q-explanation").innerText = questionObj.explanation;
+            document.getElementById("quiz-feedback").style.display = "block";
+        }
+
+        // 下一題
+        document.getElementById("btn-next").onclick = () => {
+            currentIndex++;
+            if (currentIndex < questionsToPlay.length) {
+                loadQuestion();
+            } else {
+                showReport();
+            }
+        };
+
+        // 結算報告
+        function showReport() {
+            document.getElementById("quiz-progress-fill").style.width = "100%";
+            document.getElementById("quiz-card").style.display = "none";
+            
+            const scorePercent = Math.round((correctCount / questionsToPlay.length) * 100);
+            
+            // 決定評語與表情
+            let emoji = "🏆";
+            let title = "超級完美！";
+            if (scorePercent === 100) {
+                emoji = "👑";
+                title = "完美通關！神一般的實力";
+            } else if (scorePercent >= 80) {
+                emoji = "✨";
+                title = "太棒了！答題水準極高";
+            } else if (scorePercent >= 60) {
+                emoji = "💪";
+                title = "合格！繼續努力";
+            } else {
+                emoji = "📚";
+                title = "加油！再多練習一下吧";
+            }
+
+            document.getElementById("report-emoji").innerText = emoji;
+            document.getElementById("report-title").innerText = title;
+            document.getElementById("report-score").innerText = `${scorePercent}%`;
+            
+            document.getElementById("val-correct").innerText = `${correctCount} / ${questionsToPlay.length}`;
+            document.getElementById("val-streak").innerText = `${currentStreak} 次`;
+            document.getElementById("val-wrong-count").innerText = `${wrongQuestionsIds.length} 題`;
+
+            // 如果有錯題，重做錯題按鈕亮起，否則隱藏
+            const retryWrongBtn = document.getElementById("btn-retry-wrong");
+            if (wrongQuestionsIds.length > 0) {
+                retryWrongBtn.style.display = "block";
+                retryWrongBtn.onclick = () => startQuiz("wrong");
+            } else {
+                retryWrongBtn.style.display = "none";
+            }
+
+            document.getElementById("report-card").style.display = "flex";
+        }
+
+        // 切換回選單
+        document.getElementById("btn-go-home").onclick = goToHome;
+        document.getElementById("home-link").onclick = goToHome;
+
+        function goToHome() {
+            document.getElementById("quiz-card").style.display = "none";
+            document.getElementById("report-card").style.display = "none";
+            document.getElementById("mode-selector-card").style.display = "block";
+            initApp();
+        }
+
+        // 洗牌算法
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        // 模式按鈕點擊監聽
+        document.getElementById("btn-mode-all").onclick = () => startQuiz("all");
+        document.getElementById("btn-mode-priority").onclick = () => startQuiz("priority");
+        document.getElementById("btn-mode-wrong").onclick = () => startQuiz("wrong");
+
+        // 啟動應用
+        window.onload = () => {
+            initApp();
+        };
+    </script>
+</body>
+</html>
