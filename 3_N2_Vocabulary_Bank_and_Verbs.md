@@ -326,6 +326,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **傷跡** | きずあと | 傷疤、傷痕、刀疤 | 傷口痊癒後留下的痕跡。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🔴 **傷口** | きずぐち | 傷口、切口 | 剛裂開、尚未痊癒的傷口。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🟢 **死亡する** | しぼうする | 死亡、逝世 | 較為正式的生命終結說法（如：がんで死亡する 因癌症去世）。 |
+| 🔴 **親しむ** | したしむ | 親近、親密、熟悉 | 與人或事物關係密切、熟稔（如：自然に親しむ 親近大自然）。 |
+| 🔴 **親しみ** | したしみ | 親切感、親近感、親密感 | `親しむ` 的名詞化。表示親近的感覺（如：親しみを感じる 感到親近 / 親しみやすい人 容易親近的人）。 |
 
 ---
 
