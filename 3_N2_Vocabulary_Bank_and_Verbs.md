@@ -148,6 +148,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **競争** | きょうそう | 競爭 | 雙方互相角逐爭勝（如：激しい競争 激烈的競爭 / 生存競争 生存競爭）。 |
 | 🟢 **改良** | かいりょう | 改良、改進 | 修改提升物品或技術的品質（如：製品を改良する 改良產品）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#79-產品改良與行為改善改良かいりょう-vs-改善かいぜん) 辨析。 |
 | 🔴 **恐れ入ります** | おそれいります | 很抱歉、實在不敢當、非常感謝 | 用於向對方表示歉意、謝意或請求的謙讓商務用語（如：恐れ入りますが、少々お待ちください 實在抱歉，請稍等片刻）。 |
+| 🟢 **可決** | かけつ | 通過、可決 | 會議或議會同意並通過議案（如：法案が可決された 法案被通過了，反義詞：否決）。 |
 
 ---
 
@@ -261,6 +262,13 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **頭痛** | ずつう | 頭痛 | 頭部疼痛的症狀（如：頭痛がする 頭痛 / 頭痛の種 令人煩惱的事物）。 |
 | 🟢 **苦痛** | くつう | 痛苦、苦楚 | 身體或精神上的難受與痛苦（如：苦痛に耐える 忍受痛苦 / 苦痛を和らげる 緩解痛苦）。 |
 | 🟢 **骨折** | こっせつ | 骨折 | 骨頭折斷（如：足を骨折する 腳部骨折）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#97-折疊與骨折折るおる與自他動詞搭配及折指計算) 辨析。 |
+| 🟢 **小麦粉** | こむぎこ | 麵粉、小麥粉 | 小麥磨成的粉。後綴「粉（こな）」發生尾音脫落音變為「こ」。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#99-語音的縮水現象從白髪しらが到小麥粉こむぎこ的音節脫落) 辨析。 |
+| 🟢 **たれ** | たれ | 醬汁、蘸醬 | 調味用的醬汁，常寫作「タレ」（如：焼き鳥のたれ 烤雞肉串的醬汁）。 |
+| 🟢 **車庫** | しゃこ | 車庫 | 存放車輛的車棚或庫房（如：車を車庫に入れる 把車停進車庫）。 |
+| 🟢 **杯** | さかずき | 酒杯 | 盛日本酒的杯子，也寫作「盃」。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#102-酒杯漢字的雙胞胎杯さかずき-vs-盃さかずき的由來與讀音) 辨析。 |
+| 🟢 **盃** | さかずき | 酒杯（儀式用） | 專指傳統儀式用紅色扁平酒杯。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#102-酒杯漢字的雙胞胎杯さかずき-vs-盃さかずき的由來與讀音) 辨析。 |
+| 🟢 **粉末** | ふんまつ | 粉末 | 細碎的粉狀物（如：粉末スープ 粉末湯包 / 粉末洗剤 洗衣粉）。 |
+| 🟢 **栄養** | えいよう | 營養 | 生物維持生命所需的養分（如：栄養のバランス 營養均衡 / 栄養がある 很有營養）。 |
 
 ---
 
@@ -493,6 +501,16 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **降りる** | おりる | 下車、退位（上一自動） | 從交通工具下來，或退出競爭/卸下職務。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#95-同音動詞的下落下りるおりる-vs-降りるおりる的差別與記憶要點) 辨析。 |
 | 🔴 **下りる** | おりる | 下降、核發（上一自動） | 物理上從高處走下來，或許可/資金批准下來。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#95-同音動詞的下落下りるおりる-vs-降りるおりる的差別與記憶要點) 辨析。 |
 | 🔴 **汗をかく** | あせをかく | 流汗（慣用句/他動） | 日語中表達「流汗」，動詞固定用 `かく`，且助詞必須用 `を`（× がかく）。例句：`汗をかいたのでシャワーを浴びたい。` (流了汗所以想洗澡)。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#96-筆記糾錯說明流汗的正確助詞用法--汗をかく-加かく) 辨析。 |
+| 🔴 **製造する** | せいぞうする | 製造、生產 | 工業化大規模生產（如：自動車を製造する 製造汽車 / 製造業 製造業）。 |
+| 🔴 **作る** | つくる | 製作、交朋友 | 最一般日常製作。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#98-作造創的漢字語意與用法辨析同樣讀作-つくる) 辨析。 |
+| 🔴 **造る** | つくる | 建造、釀造 | 建造大型結構或釀造酒、味噌等。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#98-作造創的漢字語意與用法辨析同樣讀作-つくる) 辨析。 |
+| 🔴 **創る** | つくる | 創造、開創 | 強點原創、藝術性從無到有的創造。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#98-作造創的漢字語意與用法辨析同樣讀作-つくる) 辨析。 |
+| 🔴 **煮る** | にる | 煮、燉（下一他動） | 用水或醬汁燉煮（如：魚を煮る 煮魚 / 煮ます 煮（敬體））。 |
+| 🔴 **沸く** | わく | 水開、水熱（五段自動） | 液體達到沸騰或合適溫度；亦指現場沸騰。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#100-自他動詞與熱水狀態沸く自-vs-沸かす他-vs-沸騰名) 辨析。 |
+| 🔴 **沸かす** | わかす | 燒開、燒熱（五段他動） | 人主動去燒開水或熱洗澡水。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#100-自他動詞與熱水狀態沸く自-vs-沸かす他-vs-沸騰名) 辨析。 |
+| 🔴 **栄える** | さかえる | 繁榮、興旺（下一自動） | 國家、城鎮或家族興盛（如：国が栄える 國家繁榮）。 |
+| 🔴 **召す** | めす | 穿衣、吃喝、感冒（尊敬語） | `着る`、`食べる/飲む`、`風邪を引く` 的萬能尊敬語。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#101-敬語核心萬能尊敬語召す的演變與お召しになって--お召し上がり用法) 辨析。 |
+| 🔴 **召し上がる** | めしあがる | 吃、喝（五段他動，尊敬語） | `食べる / 飲む` 的尊敬語（如：お召し上がりください 請享用）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#101-敬語核心萬能尊敬語召す的演變與お召しになって--お召し上がり用法) 辨析。 |
 
 ---
 
@@ -741,6 +759,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **刺激** | しげき | 刺激、激勵 | 物理或心理上的刺激物，引發興奮或變化（如：肌に強い刺激を与える 給皮膚強烈的刺激 / 刺激を受ける 受到激勵/刺激）。 |
 | 🟡 **的確な** | てきかくな | 的確的、準確的、恰當的 | 確切擊中要害、毫無偏差的狀態（如：的確な指示 準確的指示 / 的確に答える 準確回答）。 |
 | 🟡 **乾燥** | かんそう | 乾燥 | 水分消失、空氣乾燥的狀態（如：空気が乾燥している 空氣很乾燥 / 乾燥肌 乾燥肌）。 |
+| 🟡 **繁栄** | はんえい | 繁榮、興旺 | 國家、社會或子孫等興盛繁茂（如：子孫繁栄 子孫繁衍 / 都市が繁栄する 城市繁榮）。 |
+| 🟡 **沸騰** | ふっとう | 沸騰、熱烈 | 液體達到沸點滾開；比喻討論或人氣極度火爆。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#100-自他動詞與熱水狀態沸く自-vs-沸かす他-vs-沸騰名) 辨析。 |
 
 ---
 
