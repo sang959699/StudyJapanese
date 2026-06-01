@@ -30,14 +30,18 @@ def parse_priority_and_word(col_text):
     return priority, word
 
 def parse_parenthesis_reading(word_text):
-    """解析如 '入る（はいる）' 形式的單詞與讀音"""
-    m = re.match(r'^([^\uff08\(\s]+)[\uff08\(]([^\uff09\)\s]+)[\uff09\)]$', word_text.strip())
+    """解析如 '入る（はいる）' 形式的單詞與讀音，並忽視後面的說明字眼"""
+    m = re.match(r'^([^\uff08\(\s]+)[\uff08\(]([^\uff09\)]+)[\uff09\)]', word_text.strip())
     if m:
         return m.group(1), m.group(2)
-    return word_text.strip(), ""
+    # 如果沒有括號但包含【自】或【他】，提取乾淨單詞
+    clean_word = re.sub(r'【[^】]+】', '', word_text)
+    clean_word = re.split(r'[/／\s]', clean_word)[0].strip()
+    return clean_word, ""
 
 def extract_example_sentences(details_text, keyword):
     """從記憶要點中提取例句，並用（　　）替換關鍵詞做成填空題"""
+    details_text = re.sub(r'<br\s*/?>', '; ', details_text)
     details_text = clean_markdown_formatting(details_text)
     # 尋找包含括號或例句標識的句子
     # 如：'態度を改める（端正態度）' -> 例句為 '態度を改める'
@@ -101,7 +105,8 @@ def main():
             auto_kanji, auto_reading = parse_parenthesis_reading(word_auto_full)
             trans_kanji, trans_reading = parse_parenthesis_reading(word_trans_full)
             
-            details_clean = clean_markdown_formatting(details)
+            details_replaced = re.sub(r'<br\s*/?>', '; ', details)
+            details_clean = clean_markdown_formatting(details_replaced)
             
             自他_items.append({
                 "priority": p_auto,
@@ -214,6 +219,7 @@ def main():
             random.shuffle(options)
             questions.append({
                 "type": "transitive_match",
+                "verb_type": "transitive",
                 "priority": priority,
                 "question": f"自動詞【{a_kanji}（{a_reading}）】對應的「他動詞」是哪一個？",
                 "options": options,
@@ -228,12 +234,65 @@ def main():
             random.shuffle(options)
             questions.append({
                 "type": "intransitive_match",
+                "verb_type": "intransitive",
                 "priority": priority,
                 "question": f"他動詞【{t_kanji}（{t_reading}）】對應的「自動詞」是哪一個？",
                 "options": options,
                 "answer": a_kanji,
                 "explanation": f"他動詞：{t_kanji}（{t_reading}） ➔ 人為動作\n自動詞：{a_kanji}（{a_reading}） ➔ 狀態/自然改變\n記憶要點：{details}"
             })
+
+        # 題型六：自他動詞句型填空題（透過解析 details 中的例句）
+        if details:
+            clauses = re.split(r'[/／;；]', details)
+            for clause in clauses:
+                clause = clause.strip()
+                # 尋找日文部分
+                m = re.match(r'^([a-zA-Z0-9\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf\u3000-\u303f\uff01-\uff5e\uff08\(\)\uff09]+)', clause)
+                if m:
+                    sentence = m.group(1).strip()
+                    target = None
+                    other = None
+                    verb_type = None
+                    if a_kanji and a_kanji in sentence:
+                        target = a_kanji
+                        other = t_kanji
+                        verb_type = "intransitive"
+                    elif t_kanji and t_kanji in sentence:
+                        target = t_kanji
+                        other = a_kanji
+                        verb_type = "transitive"
+                    elif a_reading and a_reading in sentence:
+                        target = a_reading
+                        other = t_reading
+                        verb_type = "intransitive"
+                    elif t_reading and t_reading in sentence:
+                        target = t_reading
+                        other = a_reading
+                        verb_type = "transitive"
+                    
+                    if target and other and len(sentence) > len(target):
+                        display_sentence = sentence.replace(target, "（　　）")
+                        distractors = [other]
+                        pool = [k for k in all_auto_kanji + all_trans_kanji if k not in [target, other] and k]
+                        if len(pool) >= 2:
+                            distractors += random.sample(pool, 2)
+                        else:
+                            distractors += pool
+                        
+                        options = distractors + [target]
+                        random.shuffle(options)
+                        
+                        exp_text = f"正確句子：{sentence}\n自動詞：{a_kanji}（{a_reading}）\n他動詞：{t_kanji}（{t_reading}）\n記憶要點：{details}"
+                        questions.append({
+                            "type": "verb_fill_in",
+                            "verb_type": verb_type,
+                            "priority": priority,
+                            "question": f"請選擇正確的自他動詞填入空格：\n\n『 {display_sentence} 』",
+                            "options": options,
+                            "answer": target,
+                            "explanation": exp_text
+                        })
 
     print(f"Generated {len(questions)} quiz questions in total!")
 

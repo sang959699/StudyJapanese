@@ -156,6 +156,8 @@
             display: flex;
             flex-direction: column;
             gap: 4px;
+            flex: 1;
+            min-width: 0;
         }
 
         .mode-name {
@@ -174,6 +176,8 @@
             border-radius: 99px;
             font-size: 0.8rem;
             font-weight: 600;
+            flex-shrink: 0;
+            margin-left: 16px;
         }
 
         /* 答題卡片 */
@@ -475,6 +479,15 @@
             <h2 class="selector-title">選擇學習模式</h2>
             <p class="selector-subtitle">Based on 你的日文筆記，挑戰隨機生成的題庫</p>
             <div class="mode-options">
+                <!-- 繼續未完挑戰按鈕 -->
+                <button class="mode-btn" id="btn-mode-resume" style="display: none; border-color: var(--color-success); background: rgba(16, 185, 129, 0.05);">
+                    <div class="mode-info">
+                        <span class="mode-name" style="color: #34d399; display: flex; align-items: center; gap: 6px;">繼續未完挑戰 <span>🔄</span></span>
+                        <span class="mode-desc" id="resume-desc">恢復上次中斷的測驗</span>
+                    </div>
+                    <span class="mode-count" id="count-resume" style="background: rgba(16, 185, 129, 0.2); color: #34d399;">➔</span>
+                </button>
+
                 <button class="mode-btn" id="btn-mode-all">
                     <div class="mode-info">
                         <span class="mode-name">隨機全刷模式</span>
@@ -488,6 +501,14 @@
                         <span class="mode-desc">只練習高優先級與易錯的核心詞彙</span>
                     </div>
                     <span class="mode-count" id="count-priority">0</span>
+                </button>
+                <!-- 自他動詞句子填空挑戰 -->
+                <button class="mode-btn" id="btn-mode-verbs">
+                    <div class="mode-info">
+                        <span class="mode-name">自他動詞句子填空特訓 🌸</span>
+                        <span class="mode-desc">透過句子填空，在真實語境中辨析與精準練習自動詞與他動詞（如「ドアが閉まる」vs「ドアを閉める」）</span>
+                    </div>
+                    <span class="mode-count" id="count-verbs" style="background: rgba(139, 92, 246, 0.2); color: #a78bfa;">0</span>
                 </button>
                 <button class="mode-btn" id="btn-mode-wrong">
                     <div class="mode-info">
@@ -560,13 +581,15 @@
         // 本地存儲數據鍵名
         const STORAGE_KEY_WRONG_QS = "n2_quiz_wrong_questions_v1";
         const STORAGE_KEY_STREAK = "n2_quiz_max_streak_v1";
+        const STORAGE_KEY_CURRENT_STREAK = "n2_quiz_current_streak_v1";
+        const STORAGE_KEY_SESSION = "n2_quiz_active_session_v1";
 
         // 全局狀態管理
-        let currentMode = "all"; // all, priority, wrong
+        let currentMode = "all"; // all, priority, verbs, wrong
         let questionsToPlay = [];
         let currentIndex = 0;
         let correctCount = 0;
-        let currentStreak = 0;
+        let currentStreak = parseInt(localStorage.getItem(STORAGE_KEY_CURRENT_STREAK) || "0");
         let maxStreak = parseInt(localStorage.getItem(STORAGE_KEY_STREAK) || "0");
         let wrongQuestionsIds = JSON.parse(localStorage.getItem(STORAGE_KEY_WRONG_QS) || "[]");
         let hasAnswered = false;
@@ -582,11 +605,31 @@
             return "q_" + hash;
         }
 
+        // 保存當前未完的測驗會話
+        function saveActiveSession(selectedOptionIndex = null, wasCorrect = null) {
+            const session = {
+                currentMode,
+                questionsToPlay,
+                currentIndex,
+                correctCount,
+                currentStreak,
+                hasAnswered,
+                selectedOptionIndex,
+                wasCorrect
+            };
+            localStorage.setItem(STORAGE_KEY_SESSION, JSON.stringify(session));
+        }
+
+        // 清除會話
+        function clearActiveSession() {
+            localStorage.removeItem(STORAGE_KEY_SESSION);
+        }
+
         // 初始化主畫面
         function initApp() {
             // 安全載入題庫
             if (typeof questionBank === 'undefined' || !Array.isArray(questionBank)) {
-                document.getElementById("q-text").innerHTML = "❌ 找不到題庫數據！請確保已在本地運行了 `python scratch/update_questions.py`，且生成了 `questions.js`。";
+                document.getElementById("q-text").innerHTML = "❌ 找不到題庫數據！請確保已在本地運行了 `update_questions.bat` 或 `python scratch/update_questions.py`，且生成了 `questions.js`。";
                 document.getElementById("mode-selector-card").style.display = "none";
                 document.getElementById("quiz-card").style.display = "flex";
                 return;
@@ -597,6 +640,9 @@
             
             const priorityCount = questionBank.filter(q => q.priority === "🔴" || q.priority === "🟡").length;
             document.getElementById("count-priority").innerText = priorityCount + " 題";
+
+            const verbsCount = questionBank.filter(q => q.type === "verb_fill_in").length;
+            document.getElementById("count-verbs").innerText = verbsCount + " 題";
             
             // 清理已不存在於題庫中的錯題
             const allQIds = questionBank.map(q => getQuestionId(q));
@@ -606,6 +652,54 @@
 
             // 回復連續答對狀態
             document.getElementById("streak-display").innerText = currentStreak;
+
+            // 檢查是否有未完成的會話可供恢復
+            const session = localStorage.getItem(STORAGE_KEY_SESSION);
+            const resumeBtn = document.getElementById("btn-mode-resume");
+            if (session) {
+                try {
+                    const parsed = JSON.parse(session);
+                    if (parsed && Array.isArray(parsed.questionsToPlay) && parsed.questionsToPlay.length > 0 && parsed.currentIndex < parsed.questionsToPlay.length) {
+                        resumeBtn.style.display = "flex";
+                        let modeName = "隨機全刷";
+                        if (parsed.currentMode === "priority") modeName = "核心突破";
+                        else if (parsed.currentMode === "verbs") modeName = "自他動詞填空";
+                        else if (parsed.currentMode === "wrong") modeName = "錯題重練";
+                        document.getElementById("resume-desc").innerText = `恢復 ${modeName} 挑戰 (第 ${parsed.currentIndex + 1}/${parsed.questionsToPlay.length} 題)`;
+                    } else {
+                        resumeBtn.style.display = "none";
+                    }
+                } catch(e) {
+                    resumeBtn.style.display = "none";
+                }
+            } else {
+                resumeBtn.style.display = "none";
+            }
+        }
+
+        // 恢復未完挑戰
+        function resumeQuiz() {
+            const session = localStorage.getItem(STORAGE_KEY_SESSION);
+            if (!session) return;
+            try {
+                const parsed = JSON.parse(session);
+                currentMode = parsed.currentMode;
+                questionsToPlay = parsed.questionsToPlay;
+                currentIndex = parsed.currentIndex;
+                correctCount = parsed.correctCount;
+                currentStreak = parsed.currentStreak;
+                hasAnswered = false;
+
+                document.getElementById("mode-selector-card").style.display = "none";
+                document.getElementById("report-card").style.display = "none";
+                document.getElementById("quiz-card").style.display = "flex";
+
+                loadQuestion();
+            } catch(e) {
+                alert("無法恢復測驗會話！");
+                clearActiveSession();
+                initApp();
+            }
         }
 
         // 開始挑戰
@@ -620,6 +714,8 @@
                 sourcePool = [...questionBank];
             } else if (mode === "priority") {
                 sourcePool = questionBank.filter(q => q.priority === "🔴" || q.priority === "🟡");
+            } else if (mode === "verbs") {
+                sourcePool = questionBank.filter(q => q.type === "verb_fill_in");
             } else if (mode === "wrong") {
                 sourcePool = questionBank.filter(q => wrongQuestionsIds.includes(getQuestionId(q)));
             }
@@ -633,6 +729,9 @@
             shuffleArray(sourcePool);
             questionsToPlay = sourcePool.slice(0, 15);
 
+            // 保存會話
+            saveActiveSession();
+
             // 切換視圖
             document.getElementById("mode-selector-card").style.display = "none";
             document.getElementById("report-card").style.display = "none";
@@ -643,8 +742,28 @@
 
         // 載入當前問題
         function loadQuestion() {
-            hasAnswered = false;
-            document.getElementById("quiz-feedback").style.display = "none";
+            // 檢查是否是載入已作答的當前題目（用於網頁重新載入時恢復）
+            const sessionStr = localStorage.getItem(STORAGE_KEY_SESSION);
+            let savedSelectedIdx = null;
+            let savedWasCorrect = null;
+            if (sessionStr) {
+                try {
+                    const session = JSON.parse(sessionStr);
+                    if (session && session.currentIndex === currentIndex && session.hasAnswered) {
+                        hasAnswered = true;
+                        savedSelectedIdx = session.selectedOptionIndex;
+                        savedWasCorrect = session.wasCorrect;
+                    } else {
+                        hasAnswered = false;
+                    }
+                } catch (e) {
+                    hasAnswered = false;
+                }
+            } else {
+                hasAnswered = false;
+            }
+
+            document.getElementById("quiz-feedback").style.display = hasAnswered ? "block" : "none";
             
             const currentQ = questionsToPlay[currentIndex];
             const qId = getQuestionId(currentQ);
@@ -676,8 +795,36 @@
                 btn.id = `opt-btn-${idx}`;
                 btn.innerText = opt;
                 btn.onclick = () => selectOption(btn, opt, currentQ);
+                
+                // 套用已答樣式與禁用狀態
+                if (hasAnswered) {
+                    btn.classList.add("disabled");
+                    if (idx === savedSelectedIdx) {
+                        if (savedWasCorrect) {
+                            btn.classList.add("correct");
+                        } else {
+                            btn.classList.add("wrong");
+                        }
+                    }
+                    if (opt === currentQ.answer) {
+                        btn.classList.add("correct");
+                    }
+                }
+                
                 optionsContainer.appendChild(btn);
             });
+
+            if (hasAnswered) {
+                document.getElementById("q-explanation").innerText = currentQ.explanation;
+                if (savedWasCorrect) {
+                    quizCard.classList.add("success-glow");
+                } else {
+                    quizCard.classList.add("shake");
+                }
+            } else {
+                // 如果未答，保存當前初始進度
+                saveActiveSession();
+            }
         }
 
         // 選擇答案
@@ -688,6 +835,7 @@
             const isCorrect = (selectedVal === questionObj.answer);
             const quizCard = document.getElementById("quiz-card");
             const qId = getQuestionId(questionObj);
+            const selectedOptionIndex = questionObj.options.indexOf(selectedVal);
 
             // 禁用所有按鈕
             const allOptionBtns = document.querySelectorAll(".option-btn");
@@ -725,10 +873,14 @@
 
             // 寫入錯題與連續答對記錄到 localStorage
             localStorage.setItem(STORAGE_KEY_WRONG_QS, JSON.stringify(wrongQuestionsIds));
+            localStorage.setItem(STORAGE_KEY_CURRENT_STREAK, currentStreak.toString());
             if (currentStreak > maxStreak) {
                 maxStreak = currentStreak;
                 localStorage.setItem(STORAGE_KEY_STREAK, maxStreak.toString());
             }
+
+            // 選擇答案後更新測驗進度 (包含答題選擇與是否正確)
+            saveActiveSession(selectedOptionIndex, isCorrect);
 
             // 顯示解析與下一題按鈕
             document.getElementById("q-explanation").innerText = questionObj.explanation;
@@ -739,6 +891,8 @@
         document.getElementById("btn-next").onclick = () => {
             currentIndex++;
             if (currentIndex < questionsToPlay.length) {
+                hasAnswered = false;
+                saveActiveSession();
                 loadQuestion();
             } else {
                 showReport();
@@ -747,6 +901,9 @@
 
         // 結算報告
         function showReport() {
+            // 答題完成，清除會話
+            clearActiveSession();
+
             document.getElementById("quiz-progress-fill").style.width = "100%";
             document.getElementById("quiz-card").style.display = "none";
             
@@ -794,6 +951,8 @@
         document.getElementById("home-link").onclick = goToHome;
 
         function goToHome() {
+            // 回主選單時，主動清除會話（代表玩家已退出目前測驗）
+            clearActiveSession();
             document.getElementById("quiz-card").style.display = "none";
             document.getElementById("report-card").style.display = "none";
             document.getElementById("mode-selector-card").style.display = "block";
@@ -809,8 +968,10 @@
         }
 
         // 模式按鈕點擊監聽
+        document.getElementById("btn-mode-resume").onclick = () => resumeQuiz();
         document.getElementById("btn-mode-all").onclick = () => startQuiz("all");
         document.getElementById("btn-mode-priority").onclick = () => startQuiz("priority");
+        document.getElementById("btn-mode-verbs").onclick = () => startQuiz("verbs");
         document.getElementById("btn-mode-wrong").onclick = () => startQuiz("wrong");
 
         // 啟動應用
