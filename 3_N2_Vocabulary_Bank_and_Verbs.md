@@ -424,6 +424,28 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **公共** | こうきょう | 公共、公眾 | **公共**料金（公共事業費用）/ **公共**交通機関（公共交通工具）。 |
 | 🟢 **日本舞踊** | にほんぶよう | 日本舞踊 | 日本的傳統舞蹈。 |
 | 🟡 **一匹** | いっぴき | 一隻（計算小動物的量詞） | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#150-匹的數量詞與比肩一匹いっぴき-vs-匹敵するひってきする) 辨析。 |
+| 🟢 **貝殻** | かいがら | 貝殼 | 海辺で**貝殻**を拾う（在海邊撿貝殼）。 |
+| 🟢 **酒屋** | さかや | 酒店、酒專賣店 | 近所の**酒屋**（附近的酒店）。 |
+| 🟢 **居酒屋** | いざかや | 居酒屋 | **居酒屋**でビールを飲む（在居酒屋喝啤酒）。 |
+| 🟢 **水蒸気** | すいじょうき | 水蒸氣 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#154-蒸的家族讀音與狀態蒸すむす-vs-蒸し暑い-vs-蒸発-vs-水蒸気) 辨析。 |
+| 🟢 **干物** | ひもの | 魚乾、乾貨 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#155-干的日曬文化干すほす-vs-干物ひものの讀音變遷) 辨析。 |
+| 🟢 **竹の子 / 筍** | たけのこ | 筍子、竹筍 | **竹の子**を掘る（挖竹筍）。 |
+| 🟢 **卵黄** | らんおう | 蛋黃 | 卵の**卵黄**と卵白（雞蛋的蛋黃與蛋白）。 |
+| 🟢 **屋根** | やね | 屋頂 | **屋根**の上で猫が寝ている（貓在屋頂上睡覺）。 |
+| 🟡 **田植え** | たうえ | 插秧 | 春に**田植え**をする（春季插秧）。 |
+| 🟢 **植木** | うえき | 盆栽、庭園植株 | 庭の**植木**に水をやる（給庭院的盆栽澆水）。 |
+| 🟡 **砂漠** | さばく | 沙漠 | **砂漠**を旅する（在沙漠旅行）。 |
+| 🟢 **砂** | すな | 沙子 | **砂**遊び（玩沙）。 |
+| 🟢 **砂糖** | さとう | 砂糖 | 紅茶に**砂糖**を入れる（往紅茶裡加砂糖）。 |
+| 🟡 **乳児** | にゅうじ | 嬰兒、乳兒 | **乳児**の健康診断（嬰兒的健康檢查）。 |
+| 🟢 **父** | ちち | 父親、爸爸 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#152-同音詞語源探秘父ちち與-乳ちち的由來與音調差異) 辨析。 |
+| 🟢 **乳** | ちち | 乳房、乳汁 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#152-同音詞語源探秘父ちち與-乳ちち的由來與音調差異) 辨析。 |
+| 🟢 **炭** | すみ | 木炭 | **炭**火で肉を焼く（用炭火烤肉）。 |
+| 🟢 **石炭** | せきたん | 煤炭 | **石炭**火力発電所（煤炭火力發電廠）。 |
+| 🟡 **脂肪** | しぼう | 脂肪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
+| 🟡 **油脂** | ゆし | 油脂 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
+| 🟡 **脂質** | ししつ | 脂質 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
+| 🟡 **油** | あぶら | 油 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
 
 ---
 
@@ -714,6 +736,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **渡す** | わたす | 遞交、交付、架橋 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#149-渡的跨越與遞送渡るわたる-vs-渡すわたす-vs-渡米とべい) 辨析。 |
 | 🔴 **渡る** | わたる | 跨越、渡過、穿越 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#149-渡的跨越與遞送渡るわたる-vs-渡すわたす-vs-渡米とべい) 辨析。 |
 | 🟡 **乗馬** | じょうば | 騎馬 (名詞/サ變) | 馬に乗ること（騎馬）。例句：`乗馬（じょうば）を習う`（學習騎馬）。 |
+| 🔴 **蒸発する** | じょうはつする | 蒸發、人間蒸發/失蹤 (サ變動詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#154-蒸的家族讀音與狀態蒸すむす-vs-蒸し暑い-vs-蒸発-vs-水蒸気) 辨析。 |
+| 🔴 **蒸す** | むす | 蒸、悶熱 (五段自他) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#154-蒸的家族讀音與狀態蒸すむす-vs-蒸し暑い-vs-蒸発-vs-水蒸気) 辨析。 |
+| 🔴 **干す** | ほす | 晾曬、烘乾 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#155-干的日曬文化干すほす-vs-干物ひものの讀音變遷) 辨析。 |
+| 🔴 **植える** | うえる | 種植、栽種 (下一他動) | 庭に花を**植える**（在庭院種花）。 |
+| 🔴 **含む** | ふくむ | 包含、含有 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#151-包含與融入的語境分工含むふくむ-vs-込むこむ) 辨析。 |
+| 🔴 **含める** | ふくめる | 包括、包含在內 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#151-包含與融入的語境分工含むふくむ-vs-込むこむ) 辨析。 |
 
 ---
 
@@ -1001,6 +1029,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **単に** | たんに | 僅僅、只不過是 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
 | 🟡 **単なる** | たんなる | 單純的、僅僅的 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
 | 🟡 **程度** | ていど | 程度、水準 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#142-程的讀音分工與句型結構てい程度過程-vs-ほど程度接續助詞) 辨析。 |
+| 🟡 **蒸し暑い** | むしあつい | 悶熱、又濕又熱 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#154-蒸的家族讀音與狀態蒸すむす-vs-蒸し暑い-vs-蒸発-vs-水蒸気) 辨析。 |
 
 ---
 
