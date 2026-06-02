@@ -213,6 +213,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **漁師** | りょうし | 漁夫、漁民 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#171-漁的雙重音讀ぎょ漁船漁業-vs-りょう漁師漁) 辨析。 |
 | 🟢 **与党** | よとう | 執政黨 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#181-朝野政黨對決与党よとう-vs-野党やとう) 辨析。 |
 | 🟢 **野党** | やとう | 在野黨 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#181-朝野政黨對決与党よとう-vs-野党やとう) 辨析。 |
+| 🟡 **貿易** | ぼうえき | 貿易、國際貿易 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
+| 🟡 **命令** | めいれい | 命令 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#187-命令與人命的二元字源命令めいれい命じる-vs-命いのち) 辨析。 |
 
 ---
 
@@ -511,6 +513,13 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **児童** | じどう | 兒童 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#183-兒童與故事的世界児童じどう-vs-童話どうわ-vs-おとぎ話) 說明。 |
 | 🟢 **童話** | どうわ | 童話 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#183-兒童與故事的世界児童じどう-vs-童話どうわ-vs-おとぎ話) 說明。 |
 | 🟢 **おとぎ話** | おとぎばなし | 民間故事、神話傳說 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#183-兒童與故事的世界児童じどう-vs-童話どうわ-vs-おとぎ話) 說明。 |
+| 🟢 **被害** | ひがい | 受災、受害、損失 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#188-法律與意外的責任名詞被害-vs-加害者-vs-被告-及動詞被る) 辨析。 |
+| 🟢 **加害者** | かがいしゃ | 加害者、施害者 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#188-法律與意外的責任名詞被害-vs-加害者-vs-被告-及動詞被る) 辨析。 |
+| 🟢 **被告** | ひこく | 被告 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#188-法律與意外的責任名詞被害-vs-加害者-vs-被告-及動詞被る) 辨析。 |
+| 🟢 **公害** | こうがい | 環境公害、污染 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
+| 🟢 **水害** | すいがい | 水災、洪災 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
+| 🟢 **殺害** | さつがい | 殺害、謀殺 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
+| 🟢 **星印** | ほしじるし | 星星標記、星號 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#190-星標記與符號標記星印ほしじるし與印的讀音分工) 說明。 |
 
 ---
 
@@ -840,6 +849,10 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **亡くす** | なくす | 失去至親 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#185-生命消逝的溫和與客觀表達亡くなる-vs-亡くす-vs-死亡) 辨析。 |
 | 🔴 **亡くなる** | なくなる | 去世、往生 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#185-生命消逝的溫和與客觀表達亡くなる-vs-亡くす-vs-死亡) 辨析。 |
 | 🔴 **死亡する** | しぼうする | 死亡 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#185-生命消逝的溫和與客觀表達亡くなる-vs-亡くす-vs-死亡) 辨析。 |
+| 🔴 **命じる** | めいじる | 命令、任命 (上一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#187-命令與人命的二元字源命令めいれい命じる-vs-命いのち) 辨析。 |
+| 🔴 **被る** | かぶる | 蒙受、戴、遭受 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#188-法律與意外的責任名詞被害-vs-加害者-vs-被告-及動詞被る) 辨析。 |
+| 🔴 **盛る** | もる | 盛放、堆積 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
+| 🔴 **殺害する** | さつがいする | 殺害、謀殺 (サ變他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
 
 ---
 
@@ -1140,6 +1153,11 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **偉い** | えらい | 了不起、地位高、吃力 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
 | 🟡 **偉大** | いだい | 偉大、卓越 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
 | 🟡 **絶えず** | たえず | 不斷地、經常 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#180-同音異義字たつ的分工絶つ-vs-断つ-及副詞絶えず) 辨析。 |
+| 🟡 **容易** | ようい | 簡單的、容易的 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
+| 🟡 **易しい** | やさしい | 簡單的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
+| 🟡 **安易な** | あんいな | 輕率的、隨便的、容易的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
+| 🟡 **盛ん** | さかん | 興盛的、流行的、熱烈的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
+| 🟡 **盛大** | せいだい | 盛大的、隆重的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
 
 ---
 
