@@ -221,6 +221,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **削減** | さくげん | 削減、縮減 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 辨析。 |
 | 🟢 **財政** | ざいせい | 財政、經濟狀況 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#228-國家與社會經濟財政ざいせい與不況ふきょう的搭配語境) 說明。 |
 | 🟢 **不況** | ふきょう | 不景氣、經濟蕭條 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#228-國家與社會經濟財政ざいせい與不況ふきょう的搭配語境) 說明。 |
+| 🟢 **著者** | ちょしゃ | 作者、著者 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#231-著的寫作與顯著特徵著者ちょしゃ-vs-著すあらわす-vs-著しいいちじるしい) 說明。 |
 
 ---
 
@@ -552,6 +553,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **国境** | こっきょう | 國境、國界 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#222-境的邊界與界線境さかい-vs-県境けんざかい-vs-国境こっきょう) 說明。 |
 | 🟢 **県庁** | けんちょう | 縣政府、縣廳 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#225-地方行政與辦公県庁けんちょう與相關政務詞彙) 說明。 |
 | 🟢 **独身** | どくしん | 單身、未婚 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
+| 🟢 **並木** | なみき | 林蔭道、路旁樹木 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#234-並的排列與並列並ぶならぶ-vs-並べるならべる-vs-平年並みへいねんなみ-vs-並木なみき) 說明。 |
 
 ---
 
@@ -914,6 +916,16 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **行き来する** | いききする | 來往、交往 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#226-往來與交往行き来いききゆきき與社交聯絡) 說明。 |
 | 🟢 **独り言** | ひとりごと | 自言自語 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
 | 🟢 **腕前** | うでまえ | 手藝、技術、本領 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#229-實力與技能的展現腕前うでまえ與腕的慣用語) 說明。 |
+| 🔴 **著す** | あらわす | 寫作、著書 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#231-著的寫作與顯著特徵著者ちょしゃ-vs-著すあらわす-vs-著しいいちじるしい) 說明。 |
+| 🔴 **占める** | しめる | 佔領、佔比 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#232-占的佔有與占卜占めるしめる-vs-占ううらなう) 說明。 |
+| 🔴 **占う** | うらなう | 占卜、預測 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#232-占的佔有與占卜占めるしめる-vs-占ううらなう) 說明。 |
+| 🔴 **比べる** | くらべる | 比較、對比 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#233-比的對比與比較比較ひかく-vs-比べるくらべる-vs-比較的ひかくてき) 說明。 |
+| 🔴 **並ぶ** | ならぶ | 排列、並列 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#234-並的排列與並列並ぶならぶ-vs-並べるならべる-vs-平年並みへいねんなみ-vs-並木なみき) 說明。 |
+| 🔴 **並べる** | ならべる | 排列、擺放 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#234-並的排列與並列並ぶならぶ-vs-並べるならべる-vs-平年並みへいねんなみ-vs-並木なみき) 說明。 |
+| 🔴 **上回る** | うわまわる | 超過、高出 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#235-數據趨勢描述一上回るうわまわる-vs-下回るしたまわる) 說明。 |
+| 🔴 **下回る** | したまわる | 低於、不及 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#235-數據趨勢描述一上回るうわまわる-vs-下回るしたまわる) 說明。 |
+| 🔴 **上昇する** | じょうしょうする | 上升、上漲 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#236-數據趨勢描述二上昇するじょうしょうする-vs-下降するかこうする) 說明。 |
+| 🔴 **下降する** | かこうする | 下降、跌落 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#236-數據趨勢描述二上昇するじょうしょうする-vs-下降するかこうする) 說明。 |
 
 ---
 
@@ -1228,6 +1240,14 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **いい加減な** | いいかげんな | 適度、敷衍、隨便的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 說明。 |
 | 🟡 **独自** | どくじ | 獨特、獨自的 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
 | 🟡 **日独** | にちどく | 日本與德國 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
+| 🟡 **幅** | はば | 寬度、幅度 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#230-幅的寬度與幅度幅はば-vs-大幅おおはば) 說明。 |
+| 🟡 **大幅な** | おおはばな | 大幅的、廣泛的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#230-幅的寬度與幅度幅はば-vs-大幅おおはば) 說明。 |
+| 🟡 **著しい** | いちじるしい | 顯著的、明顯的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#231-著的寫作與顯著特徵著者ちょしゃ-vs-著すあらわす-vs-著しいいちじるしい) 說明。 |
+| 🟡 **比較** | ひかく | 比較 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#233-比的對比與比較比較ひかく-vs-比べるくらべる-vs-比較的ひかくてき) 說明。 |
+| 🟡 **比較的** | ひかくてき | 比較地、相對地 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#233-比的對比與比較比較ひかく-vs-比べるくらべる-vs-比較的ひかくてき) 說明。 |
+| 🟡 **平年並み** | へいねんなみ | 與往年相同、平年水準 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#234-並的排列與並列並ぶならぶ-vs-並べるならべる-vs-平年並みへいねんなみ-vs-並木なみき) 說明。 |
+| 🟡 **横ばい** | よこばい | 持平、沒有起伏 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#237-數據趨勢描述三横ばいよこばい與一定いってい) 說明。 |
+| 🟡 **一定** | いってい | 一定、固定 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#237-數據趨勢描述三横ばいよこばい與一定いってい) 說明。 |
 
 ---
 
