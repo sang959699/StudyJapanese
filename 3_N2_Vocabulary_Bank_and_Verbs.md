@@ -414,9 +414,16 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **群れ** | むれ | 群體、群 | 鳥の**群れ**（鳥群）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
 | 🟡 **単語** | たんご | 單字、詞彙 | **単語**を覚える（背單字）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
 | 🟡 **単位** | たんい | 單位、學分 | 大学で**単位**を取る（在大學取得學分）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
-| 🟡 **日課** | にっか | 例行公事、每日功課 | 毎朝の散歩が**日課**打（每天早上的散步是例行公事）。 |
+| 🟡 **日課** | にっか | 例行公事、每日功課 | 毎朝の散歩が**日課**だ（每天早上的散步是例行公事）。 |
 | 🟡 **過程** | かてい | 過程、歷程 | 成長の**過程**（成長的過程）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#142-程的讀音分工與句型結構てい程度過程-vs-ほど程度接續助詞) 辨析。 |
 | 🟡 **基礎** | きそ | 基礎、根本 | **基礎**から学ぶ（從基礎學起）/ **基礎**知識（基礎知識）。 |
+| 🟡 **育児** | いくじ | 育兒、養育幼兒 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#146-育系列自他動詞與衍生名詞育つそだつ-vs-育てるそだてる-vs-育児いくじ) 辨析。 |
+| 🟢 **灰皿** | はいざら | 煙灰缸 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#148-輪與皿的讀音與名詞變化灰皿はいざら-vs-首輪くびわ-vs-車輪しゃりん) 辨析。 |
+| 🟢 **首輪** | くびわ | 項圈、頸圈 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#148-輪與皿的讀音與名詞變化灰皿はいざら-vs-首輪くびわ-vs-車輪しゃりん) 辨析。 |
+| 🟢 **車輪** | しゃりん | 車輪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#148-輪與皿的讀音與名詞變化灰皿はいざら-vs-首輪くびわ-vs-車輪しゃりん) 辨析。 |
+| 🟡 **公共** | こうきょう | 公共、公眾 | **公共**料金（公共事業費用）/ **公共**交通機関（公共交通工具）。 |
+| 🟢 **日本舞踊** | にほんぶよう | 日本舞踊 | 日本的傳統舞蹈。 |
+| 🟡 **一匹** | いっぴき | 一隻（計算小動物的量詞） | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#150-匹的數量詞與比肩一匹いっぴき-vs-匹敵するひってきする) 辨析。 |
 
 ---
 
@@ -698,6 +705,15 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **応じる** | おうじる | 回應、順應、答應 (一段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#145-應字輩家族的核心畫面応募-vs-一応-vs-應じる-vs-應用) 辨析。 |
 | 🔴 **導く** | みちびく | 引導、指引、帶路 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#141-導引與道路的字源連結導くみちびく與-道みち的同源關係) 辨析。 |
 | 🟡 **応用** | おうよう | 應用、實用 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#145-應字輩家族的核心畫面応募-vs-一応-vs-應じる-vs-應用) 辨析。 |
+| 🔴 **育つ** | そだつ | 生長、成長、發育 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#146-育系列自他動詞與衍生名詞育つそだつ-vs-育てるそだてる-vs-育児いくじ) 辨析。 |
+| 🔴 **育てる** | そだてる | 培育、養育、訓練 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#146-育系列自他動詞與衍生名詞育つそだつ-vs-育てるそだてる-vs-育児いくじ) 辨析。 |
+| 🔴 **探す** | さがす | 尋找（具體目標/遺失物） (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#147-尋求與探索的細微差別探すさがす-vs-探るさぐる) 辨析。 |
+| 🔴 **探る** | さぐる | 摸索、探測、探究 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#147-尋求與探索的細微差別探すさがす-vs-探るさぐる) 辨析。 |
+| 🔴 **匹敵する** | ひってきする | 匹敵、比肩、不相上下 (サ變動詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#150-匹的數量詞與比肩一匹いっぴき-vs-匹敵するひってきする) 辨析。 |
+| 🟡 **渡米** | とべい | 前往美國 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#149-渡的跨越與遞送渡るわたる-vs-渡すわたす-vs-渡米とべい) 辨析。 |
+| 🔴 **渡す** | わたす | 遞交、交付、架橋 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#149-渡的跨越與遞送渡るわたる-vs-渡すわたす-vs-渡米とべい) 辨析。 |
+| 🔴 **渡る** | わたる | 跨越、渡過、穿越 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#149-渡的跨越與遞送渡るわたる-vs-渡すわたす-vs-渡米とべい) 辨析。 |
+| 🟡 **乗馬** | じょうば | 騎馬 (名詞/サ變) | 馬に乗ること（騎馬）。例句：`乗馬（じょうば）を習う`（學習騎馬）。 |
 
 ---
 
