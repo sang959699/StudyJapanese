@@ -197,6 +197,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **役所** | やくしょ | 政府機關、公所 | **役所**で手続きをする（在公所辦理手續）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發音與字義分工) 辨析。 |
 | 🟢 **現役** | げんえき | 現役、應屆 | **現役**の選手（現役選手） / **現役**合格（應屆考上）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發意與字義分工) 辨析。 |
 | 🟢 **略歴** | りゃくれき | 簡歷、個人簡歷 | 履歴書に**略歴**を書く（在履歷表上寫簡歷）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#133-縮短與省略的層次略すりゃくす與-省略しょうりゃく略歷りゃくれき) 辨析。 |
+| 🟢 **厚生労働省** | こうせいろうどうしょう | 厚生勞動省 | 日本負責醫療、保健、社會福利、勞動的政府機關。 |
+| 🟢 **改革** | かいかく | 改革 | 制度の**改革**（制度的改革）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
 
 ---
 
@@ -381,6 +383,25 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **複数** | ふくすう | 複數、多個 | **複数**の選擇肢（多個選項）。 |
 | 🟢 **刊行物** | かんこうぶつ | 出版物、發行物 | 定期**刊行物**（定期出版物）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#132-出版與新聞的分工刊行かんこう與-出版しゅっぱん朝刊ちょうかん) 辨析。 |
 | 🟢 **朝刊** | ちょうかん | 早報、晨報 | **朝刊**を配達する（遞送早報）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#132-出版與新聞的分工刊行かんこう與-出版しゅっぱん朝刊ちょうかん) 辨析。 |
+| 🟢 **花束** | はなたば | 花束 | **花束**を贈る（送花束）。 |
+| 🟢 **花畑** | はなばたけ | 花田 | 美しい**花畑**（美麗的花田）。 |
+| 🟢 **大皿** | おおざら | 大盤子 | 料理を**大皿**に盛る（將料理盛在大盤子裡）。 |
+| 🟢 **小皿** | こざら | 小碟子 | 取り分け用の**小皿**（分裝用的小碟子）。 |
+| 🟢 **一皿** | ひとさら | 一盤 | **一皿**100円（一盤100日圓）。 |
+| 🟢 **綿** | わた | 棉花 (填充用) | 布団に**綿**（わた）を入れる（把棉花塞進被子）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#137-棉花與織物的名詞辨析綿わためん與-木綿もめん的材料與讀音區分) 辨析。 |
+| 🟢 **綿** | めん | 棉、棉質 (標籤用) | **綿**（めん）100%的Tシャツ（100%純棉的T恤）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#137-棉花與織物的名詞辨析綿わためん與-木綿もめん的材料與讀音區分) 辨析。 |
+| 🟢 **木綿** | もめん | 棉織物、純棉 | **木綿**的浴衣（純棉的浴衣）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#137-棉花與織物的名詞辨析綿わためん與-木綿もめん的材料與讀音區分) 辨析。 |
+| 🟢 **旧館** | きゅうかん | 舊館 | **旧館**から新館へ移動する（從舊館搬到新館）。 |
+| 🟢 **旧姓** | きゅうせい | 舊姓、娘家姓氏 | 結婚前の**旧姓**（結婚前的舊姓）。 |
+| 🟢 **厚切り** | あつぎり | 厚切 | **厚切り**的火腿（厚切火腿）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#138-厚薄對立面厚切り厚手-vs-薄切り薄手薄める-的量感與搭配分工) 辨析。 |
+| 🟢 **厚手** | あつで | 厚實、質地厚 | **厚手**的毛衣（厚實的毛衣）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#138-厚薄對立面厚切り厚手-vs-薄切り薄手薄める-的量感與搭配分工) 辨析。 |
+| 🟢 **薄切り** | うすぎり | 薄切、切薄片 | 牛肉的**薄切り**（牛肉薄片）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#138-厚薄對立面厚切り厚手-vs-薄切り薄手薄める-的量感與搭配分工) 辨析。 |
+| 🟢 **薄手** | うすde | 質地薄、輕薄 | **薄手**的外套（輕薄的外套）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#138-厚薄對立面厚切り厚手-vs-薄切り薄手薄める-的量感與搭配分工) 辨析。 |
+| 🟢 **粒** | つぶ | 顆粒、滴 | 汗的**粒**（汗水滴）。 |
+| 🟢 **一粒** | ひとつぶ | 一顆、一滴 | **一粒**的米（一顆米）。 |
+| 🟢 **北極** | ほっきょく | 北極 | **北極**熊（北極熊）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
+| 🟢 **南極** | なんきょく | 南極 | **南極**觀測船（南極觀測船）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
+| 🟢 **革製** | かわせい | 皮革製 | **革製**的皮包（皮革製皮包）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦にがいくるしいく) 辨析。 |
 
 ---
 
@@ -652,6 +673,10 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **解く** | とく | 解開、消除、解答 (五段他動) | 紐を**解く**（解開繩子） / 誤解を**解く**（消除誤會） / 問題を**解く**（解題）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#120-解得開也溶得掉解くとく與-溶けるとける的と字根同源分析) 辨析。 |
 | 🔴 **打ち寄せる** | うちよせる | 拍打、沖上岸 (五段他動) | 波が海岸に**打ち寄せる**（波浪拍打海岸）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#128-複合動詞的畫面感打ち寄せるうちよせる的構造與波浪動作解析) 辨析。 |
 | 🔴 **略す** | りゃくす | 省略、簡化 (五段他動) | 固有名詞を**略す**（省略固有名詞）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#133-縮短與省略的層次略すりゃくす與-省略しょうりゃく略歷りゃくれき) 辨析。 |
+| 🔴 **束ねる** | たばねる | 捆、束、管理 (五段他動) | 髪を**束ねる**（把頭髮紮起來） / 組織を束ねる。 |
+| 🔴 **復旧** | ふっきゅう | 恢復原狀、修復 (名詞/サ變) | 鐵路が**復旧**する（鐵路修復/通車）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#136-重建與修復的分工復舊ふっきゅう與-復興ふっこう的對象與階段差異) 辨析。 |
+| 🔴 **薄める** | うすめる | 稀釋、變淡 (五段他動) | 味を**薄める**（稀釋味道）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#138-厚薄對立面厚切り厚手-vs-薄切り薄手薄める-的量感與搭配分工) 辨析。 |
+| 🔴 **苦しむ** | くるしむ | 痛苦、受折磨 (五段自動) | 病氣に**苦しむ**（受疾病折磨）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦にがいくるしいく) 辨析。 |
 
 ---
 
@@ -928,6 +953,13 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **富** | とみ | 財富、富裕 | **富**を築く（累積財富）。 |
 | 🟢 **富士山** | ふじさん | 富士山 | 日本の象徴である**富士山**（作為日本象徵的富士山）。 |
 | 🟡 **複雑な** | ふくざつな | 複雜的 (な形容詞) | **複雑**な問題（複雜的問題）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#130-複製品的精確語境複製ふくせい與-複寫複寫---ふくしゃ的用詞差異) 辨析。 |
+| 🟡 **積極的** | せっきょくてき | 積極的 (な形容詞) | **積極的**な活動（積極的活動）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
+| 🟡 **消極的** | しょうきょくてき | 消極的 (な形容詞) | **消極的**な態度（消極的態度）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
+| 🟡 **極** | きょく / ごく | 極、非常 | **極**めて重要な問題（極其重要的問題，用作副詞）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
+| 🟡 **極み** | きわみ | 極致、頂點 | 贅沢の**極み**（奢侈的極致）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
+| 🟡 **苦い** | にがい | 苦的、痛苦的 | **苦い**薬（苦藥） / **苦い**経験（痛苦的經驗）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
+| 🟡 **苦しい** | くるしい | 痛苦的、艱難的 | 生活が**苦しい**（生活艱難）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
+| 🟡 **苦痛** | くつう | 痛苦、苦楚 | 精神的な**苦痛**（精神上的痛苦）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
 
 ---
 
