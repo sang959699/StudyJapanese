@@ -209,6 +209,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **導入** | どうにゅう | 導入、引進 | 新規システムを**導入**する（引進新系統）。 |
 | 🟡 **指導** | しどう | 指導 | 生徒を**指導**する（指導學生）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#141-導引與道路的字源連結導くみちびく與-道みち的同源關係) 辨析。 |
 | 🟡 **能率** | のうりつ | 效率、能率 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#166-率字的多音字對決りつ比例能率-vs-そつ坦率引率) 辨析。 |
+| 🟢 **漁船** | ぎょせん | 漁船 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#171-漁的雙重音讀ぎょ漁船漁業-vs-りょう漁師漁) 辨析。 |
+| 🟢 **漁師** | りょうし | 漁夫、漁民 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#171-漁的雙重音讀ぎょ漁船漁業-vs-りょう漁師漁) 辨析。 |
 
 ---
 
@@ -495,6 +497,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **知恵** | ちえ | 智慧、點子 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
 | 🟢 **恩恵** | おんけい | 恩惠、好處 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
 | 🟢 **雨雲** | あまぐも | 雨雲 | 空に**雨雲**が広がる（天空中雨雲擴散開來）。 |
+| 🟢 **鉱山** | こうざん | 礦山 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#172-礦產與資源的字形與位置鉱山-vs-炭鉱-及炭的訓讀すみ) 說明。 |
+| 🟢 **炭鉱** | たんこう | 煤礦 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#172-礦產與資源的字形與位置鉱山-vs-炭鉱-及炭的訓讀すみ) 說明。 |
+| 🟢 **炭** | すみ | 木炭 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#172-礦產與資源的字形與位置鉱山-vs-炭鉱-及炭的訓讀すみ) 說明。 |
+| 🟢 **水滴** | すいてき | 水滴 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#173-滴的液體凝結水滴すいてき與動詞-滴るしたたる) 辨析。 |
+| 🟢 **海底** | かいてい | 海底 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#175-底的空間深度海の底そこ與音讀-海底かいてい-徹底てってい) 辨析。 |
+| 🟢 **底** | そこ | 底部、底 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#175-底的空間深度海の底そこ與音讀-海底かいてい-徹底てってい) 辨析。 |
 
 ---
 
@@ -806,6 +814,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **晴れる** | はれる | 放晴、消除 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
 | 🔴 **曇る** | くもる | 變陰、起霧、模糊 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
 | 🔴 **恵まれる** | めぐまれる | 富於、幸運地擁有 (下一自動/被動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
+| 🔴 **滴る** | したたる | 滴落、流露 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#173-滴的液體凝結水滴すいてき與動詞-滴るしたたる) 辨析。 |
+| 🔴 **徹底する** | てっていする | 徹底 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#175-底的空間深度海の底そこ與音讀-海底かいてい-徹底てってい) 辨析。 |
 
 ---
 
@@ -1103,6 +1113,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **乱暴な** | らんぼうな | 粗暴的、野蠻的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
 | 🟡 **率直に** | そっちょくに | 率直地、坦率地 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#166-率字的多音字對決りつ比例能率-vs-そつ坦率引率) 辨析。 |
 | 🟡 **陽気な** | ようきな | 暖和天氣/開朗個性 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#169-陽氣的雙重面貌暖和天氣-vs-開朗個性) 辨析。 |
+| 🟡 **偉い** | えらい | 了不起、地位高、吃力 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
+| 🟡 **偉大** | いだい | 偉大、卓越 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
 
 ---
 
