@@ -216,6 +216,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **貿易** | ぼうえき | 貿易、國際貿易 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
 | 🟡 **命令** | めいれい | 命令 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#187-命令與人命的二元字源命令めいれい命じる-vs-命いのち) 辨析。 |
 | 🟡 **巨額** | きょがく | 巨額、龐大的金額 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#192-巨的規模化名詞巨額きょがく-vs-巨大きくょだい) 辨析。 |
+| 🟡 **雇用** | こよう | 僱用、聘用 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#204-聘用與開除的兩極詞彙雇用こよう-vs-解雇かいこ) 說明。 |
+| 🟡 **解雇** | かいこ | 解僱、開除 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#204-聘用與開除的兩極詞彙雇用こよう-vs-解雇かいこ) 說明。 |
 
 ---
 
@@ -530,7 +532,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **進路** | しんろ | 前途、生涯規劃、前進道路 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#200-同音異義詞しんろ的針路航向與進路生涯發展大辨析) 說明。 |
 | 🟢 **速報** | そくほう | 新聞快報、速報 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
 | 🟢 **見出し** | みだし | 標題、新聞標題 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
-| 🟢 **記事** | kiじ | 報導、新聞文章 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
+| 🟢 **記事** | きじ | 報導、新聞文章 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
+| 🟢 **規律** | きりつ | 紀律、秩序 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#207-紀律與規範的名詞分工規律きりつ-vs-規則きそく) 說明。 |
+| 🟢 **姿勢** | しせい | 姿勢、態度 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#208-勢的讀音與群眾語境姿勢しせい-vs-大勢おおぜい-vs-たいせい-vs-勢いいきおい) 說明。 |
+| 🟢 **大勢** | おおぜい / たいせい | 很多人 / 大局、趨勢 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#208-勢的讀音與群眾語境姿勢しせい-vs-大勢おおぜい-vs-たいせい-vs-勢いいきおい) 說明。 |
+| 🟢 **耕地** | こうち | 耕地 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#210-耕的農作與耕作土地耕すたがやす與耕地休耕地) 說明。 |
+| 🟢 **休耕地** | きゅうこうち | 休耕地、荒廢農地 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#210-耕的農作與耕作土地耕すたがやす與耕地休耕地) 說明。 |
 
 ---
 
@@ -872,6 +879,15 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **倒す** | たおす | 推倒、擊敗 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#198-倒下與擊倒的自他動詞倒れるたおれる-vs-倒すたおす-及音讀倒產) 辨析。 |
 | 🔴 **倒れる** | たおれる | 倒下、病倒、倒閉 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#198-倒下與擊倒的自他動詞倒れるたおれる-vs-倒すたおす-及音讀倒產) 辨析。 |
 | 🔴 **叫ぶ** | さけぶ | 呼喊、呼籲 (五段自他) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#201-叫的大聲呼喊叫ぶさけぶ與命令形叫べ) 說明。 |
+| 🔴 **決行する** | けっこうする | 決意實行、照常進行 (サ變他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#203-同音詞けっこう的漢字分工決行硬著頭皮執行-vs-結構足夠極好) 辨析。 |
+| 🔴 **訴える** | うったえる | 控告、訴諸、抱怨 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#205-訴的呼籲與起訴訴えるうったえる與音讀訴訟告訴) 辨析。 |
+| 🔴 **出社する** | しゅっしゃする | 到公司上班 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#206-進入公司的日常名詞出社しゅっしゃ與出勤退社的分工) 辨析。 |
+| 🟡 **勢い** | いきおい | 氣勢、勢頭、力量 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#208-勢的讀音與群眾語境姿勢しせい-vs-大勢おおぜい-vs-たいせい-vs-勢いいきおい) 說明。 |
+| 🔴 **荒れる** | あれる | 變粗糙、荒廢、粗暴 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#209-荒的荒蕪與粗野家族荒いあらい-vs-荒れるあれる-vs-荒らすあらす) 辨析。 |
+| 🔴 **荒らす** | あらす | 蹂躪、破壞、翻亂 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#209-荒的荒蕪與粗野家族荒いあらい-vs-荒れるあれる-vs-荒らすあらす) 辨析。 |
+| 🔴 **耕す** | たがやす | 耕作、犁田 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#210-耕的農作與耕作土地耕すたがやす與耕地休耕地) 說明。 |
+| 🔴 **掘る** | ほる | 挖掘 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#211-同音詞ほる的挖掘與雕刻掘るほる-vs-掘り返すほりかえす-及彫る) 說明。 |
+| 🔴 **掘り返す** | ほりかえす | 挖開、翻土、翻舊帳 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#211-同音詞ほる的挖掘與雕刻掘るほる-vs-掘り返すほりかえす-及彫る) 說明。 |
 
 ---
 
@@ -1178,6 +1194,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **安易な** | あんいな | 輕率的、隨便的、容易的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
 | 🟡 **盛ん** | さかん | 興盛的、流行的、熱烈的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
 | 🟡 **盛大** | せいだい | 盛大的、隆重的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
+| 🟡 **荒い** | あらい | 粗暴的、狂暴的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#209-荒的荒蕪與粗野家族荒いあらい-vs-荒れるあれる-vs-荒らすあらす) 辨析。 |
 
 ---
 
