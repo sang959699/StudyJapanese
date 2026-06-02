@@ -193,7 +193,9 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **發展** | はってん | 發展、擴大 | 事物規模或勢力擴大（如：経済が発展する 經濟發展）。 |
 | 🟡 **處置** | しょち | 處理、處置、治療 | 對人事物進行妥善的安置、應對或醫療處理（如：適切な処置をとる 採取適當處置）。 |
 | 🟡 **解約** | かいやく | 解約、取消契約 | 契約を**解約**する（解約/取消契約）。 |
-| 🔴 **出迎える** | でむかえる | 出迎、迎接、恭候 | 空港で選手たちを**出迎える**（在機場迎接選手）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#121-空港的重逢出迎えるでむかえる與-迎えに行くむかえにいく的語境區分) 辨析。 |
+| 🔴 **出迎える** | でむかえる | 出迎、迎接、恭候 | 空港で選手たちを**出迎える**（在機場迎接選手）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#121-空港的重逢出迎える對象與-迎えに行くむかえにいく的語境區分) 辨析。 |
+| 🟢 **役所** | やくしょ | 政府機關、公所 | **役所**で手続きをする（在公所辦理手續）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發音與字義分工) 辨析。 |
+| 🟢 **現役** | げんえき | 現役、應屆 | **現役**の選手（現役選手） / **現役**合格（應屆考上）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發音與字義分工) 辨析。 |
 
 ---
 
@@ -351,6 +353,16 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **一畳 / 一帖** | いちじょう | 一疊 / 一帖 (面積單位) | 面積的計量單位。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#123-日本房地產的面積密碼一畳じょう-vs-一帖じょう的測量對象差異) 辨析。 |
 | 🟢 **欧米** | おうべい | 歐美、西方國家 | **欧米**的文化（歐美文化）。 |
 | 🟢 **平米** | へいべい / へーべー | 平方公尺、平方米 | 面積為50**平米**（面積為50平方公尺）。 |
+| 🟢 **海辺** | うみべ | 海邊、沿海 | **海辺**を散步する（在海邊散步）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#124-邊界與水際的空間分工辺へんべ與-岸きしがん的語意與搭配差異) 辨析。 |
+| 🟢 **この辺** | このへん | 這附近、這周圍 | **この辺**は静かだ（這附近很安靜）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#124-邊界與水際的空間分工辺へんべ與-岸きしがん的語意與搭配差異) 辨析。 |
+| 🟢 **周辺** | しゅうへん | 周邊、周圍 | 駅の**周辺**（車站周邊）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#124-邊界與水際的空間分工辺へんべ與-岸きしがん的語意與搭配差異) 辨析。 |
+| 🟢 **寺院** | じいん | 寺院、寺廟 | 歴史的な**寺院**（歷史性的寺院）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#127-佛教殿堂的稱呼分工寺てら與-寺院じいん的語體與範疇差異) 辨析。 |
+| 🟢 **寺** | てら | 寺廟 | 近所の**お寺**（附近的寺廟）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#127-佛教殿堂的稱呼分工寺てら與-寺院じいん的語體與範疇差異) 辨析。 |
+| 🟢 **川岸** | かわぎし | 河岸、川岸 | **川岸**にボートがある（河岸邊有小船）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#124-邊界與水際的空間分工辺へんべ與-岸きしがん的語意與搭配差異) 辨析。 |
+| 🟢 **湾岸** | わんがん | 灣岸、沿灣地區 | **湾岸**エリア（灣岸地區）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#124-邊界與水際的空間分工辺へんべ與-岸きしがん的語意與搭配差異) 辨析。 |
+| 🟢 **渓谷** | けいこく | 溪谷、峽谷 | 美しい**渓谷**（美麗的溪谷）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#125-山谷的多重面貌谷たに-vs-渓谷けいこく-vs-谷間たにま-vs-谷川たにがわ) 辨析。 |
+| 🟢 **谷間** | たにま | 谷間、高樓夾縫 | ビルの**谷間**（大樓的夾縫）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#125-山谷的多重面貌谷たに-vs-渓谷けいこく-vs-谷間たにま-vs-谷川たにがわ) 辨析。 |
+| 🟢 **谷川** | たにがわ | 山谷溪流 | **谷川**の清水（山谷中的清澈溪水）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#125-山谷的多重面貌谷たに-vs-渓谷けいこく-vs-谷間たにま-vs-谷川たにがわ) 辨析。 |
 
 ---
 
@@ -620,6 +632,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **居る** | いる | 在、存在、居住 (一段自動) | 家に**居る**（在家/在屋裡）。 |
 | 🔴 **畳む** | たたむ | 折疊、收拾、關店 (五段他動) | 布団を**畳む**（摺棉被） / 傘を**畳む**（收傘） / 店を**畳む**（收店/關門歇業）。 |
 | 🔴 **解く** | とく | 解開、消除、解答 (五段他動) | 紐を**解く**（解開繩子） / 誤解を**解く**（消除誤會） / 問題を**解く**（解題）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#120-解得開也溶得掉解くとく與-溶けるとける的と字根同源分析) 辨析。 |
+| 🔴 **打ち寄せる** | うちよせる | 拍打、沖上岸 (五段他動) | 波が海岸に**打ち寄せる**（波浪拍打海岸）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#128-複合動詞的畫面感打ち寄せるうちよせる的構造與波浪動作解析) 辨析。 |
 
 ---
 
