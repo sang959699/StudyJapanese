@@ -195,7 +195,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **解約** | かいやく | 解約、取消契約 | 契約を**解約**する（解約/取消契約）。 |
 | 🔴 **出迎える** | でむかえる | 出迎、迎接、恭候 | 空港で選手たちを**出迎える**（在機場迎接選手）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#121-空港的重逢出迎える對象與-迎えに行くむかえにいく的語境區分) 辨析。 |
 | 🟢 **役所** | やくしょ | 政府機關、公所 | **役所**で手続きをする（在公所辦理手續）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發音與字義分工) 辨析。 |
-| 🟢 **現役** | げんえき | 現役、應屆 | **現役**の選手（現役選手） / **現役**合格（應屆考上）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發音與字義分工) 辨析。 |
+| 🟢 **現役** | げんえき | 現役、應屆 | **現役**の選手（現役選手） / **現役**合格（應屆考上）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#126-職務與役期的讀音對決役所やくしょ與-現役げんえき的役字發意與字義分工) 辨析。 |
+| 🟢 **略歴** | りゃくれき | 簡歷、個人簡歷 | 履歴書に**略歴**を書く（在履歷表上寫簡歷）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#133-縮短與省略的層次略すりゃくす與-省略しょうりゃく略歷りゃくれき) 辨析。 |
 
 ---
 
@@ -363,6 +364,23 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **渓谷** | けいこく | 溪谷、峽谷 | 美しい**渓谷**（美麗的溪谷）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#125-山谷的多重面貌谷たに-vs-渓谷けいこく-vs-谷間たにま-vs-谷川たにがわ) 辨析。 |
 | 🟢 **谷間** | たにま | 谷間、高樓夾縫 | ビルの**谷間**（大樓的夾縫）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#125-山谷的多重面貌谷たに-vs-渓谷けいこく-vs-谷間たにま-vs-谷川たにがわ) 辨析。 |
 | 🟢 **谷川** | たにがわ | 山谷溪流 | **谷川**の清水（山谷中的清澈溪水）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#125-山谷的多重面貌谷たに-vs-渓谷けいこく-vs-谷間たにま-vs-谷川たにがわ) 辨析。 |
+| 🟢 **文化財** | ぶんかざい | 文化資產、文化遺產 | 国指定の**文化財**（國家指定的文化資產）。 |
+| 🟢 **観音** | かんのん | 觀音 | **観音**菩薩（觀音菩薩）。 |
+| 🟢 **宝物館** | ほうもつかん | 寶物館、文物館 | 寺院の**宝物館**（寺院的寶物館）。 |
+| 🟢 **日仏** | にちふつ | 日法、日本與法國 | **日仏**文化交流（日法文化交流）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#129-仏的三重身份讀音與語意分工ほとけ-vs-ぶつ-vs-ふつ) 辨析。 |
+| 🟢 **仏像** | ぶつぞう | 佛像 | 木造の**仏像**（木造佛像）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#129-仏的三重身份讀音與語意分工ほとけ-vs-ぶつ-vs-ふつ) 辨析。 |
+| 🟢 **仏教** | ぶっきょう | 佛教 | **仏教**的傳入（佛教傳入）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#129-仏的三重身份讀音與語意分工ほとけ-vs-ぶつ-vs-ふつ) 辨析。 |
+| 🟢 **仏** | ほとけ / ぶつ | 佛、亡者、善良的人 | **仏**の顔（佛祖的容顏）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#129-仏的三重身份讀音與語意分工ほとけ-vs-ぶつ-vs-ふつ) 辨析。 |
+| 🟢 **銅像** | どうぞう | 銅像 | 偉人的**銅像**（偉人的銅像）。 |
+| 🟢 **五重の塔** | ごじゅうのとう | 五重塔 | 京都の**五重の塔**（京都的五重塔）。 |
+| 🟢 **絵画** | かいが | 繪畫 | 近代**絵画**（近代繪畫）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#131-繪畫與顏料的字音分工繪畫かいが與-繪の具えのぐ的繪讀音變遷) 辨析。 |
+| 🟢 **絵の具** | えのぐ | 顏料、水彩 | **絵の具**で描く（用顏料畫畫）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#131-繪畫與顏料的字音分工繪畫かいが與-繪の具えのぐ的繪讀音變遷) 辨析。 |
+| 🟢 **版画** | はんが | 版畫、木刻畫 | 木版**版画**（木版畫）。 |
+| 🟢 **複製** | ふくせい | 複製、複製品 | 国寶の**複製**（國寶的複製品）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#130-複製品的精確語境複製ふくせい與-複寫複寫---ふくしゃ的用詞差異) 辨析。 |
+| 🟢 **複写** | ふくしゃ | 影印、複寫 | 書類を**複写**する（複印/影印文件）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#130-複製品的精確語境複製ふくせい與-複寫複寫---ふくしゃ的用詞差異) 辨析。 |
+| 🟢 **複数** | ふくすう | 複數、多個 | **複数**の選擇肢（多個選項）。 |
+| 🟢 **刊行物** | かんこうぶつ | 出版物、發行物 | 定期**刊行物**（定期出版物）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#132-出版與新聞的分工刊行かんこう與-出版しゅっぱん朝刊ちょうかん) 辨析。 |
+| 🟢 **朝刊** | ちょうかん | 早報、晨報 | **朝刊**を配達する（遞送早報）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#132-出版與新聞的分工刊行かんこう與-出版しゅっぱん朝刊ちょうかん) 辨析。 |
 
 ---
 
@@ -633,6 +651,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **畳む** | たたむ | 折疊、收拾、關店 (五段他動) | 布団を**畳む**（摺棉被） / 傘を**畳む**（收傘） / 店を**畳む**（收店/關門歇業）。 |
 | 🔴 **解く** | とく | 解開、消除、解答 (五段他動) | 紐を**解く**（解開繩子） / 誤解を**解く**（消除誤會） / 問題を**解く**（解題）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#120-解得開也溶得掉解くとく與-溶けるとける的と字根同源分析) 辨析。 |
 | 🔴 **打ち寄せる** | うちよせる | 拍打、沖上岸 (五段他動) | 波が海岸に**打ち寄せる**（波浪拍打海岸）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#128-複合動詞的畫面感打ち寄せるうちよせる的構造與波浪動作解析) 辨析。 |
+| 🔴 **略す** | りゃくす | 省略、簡化 (五段他動) | 固有名詞を**略す**（省略固有名詞）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#133-縮短與省略的層次略すりゃくす與-省略しょうりゃく略歷りゃくれき) 辨析。 |
 
 ---
 
@@ -908,6 +927,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **富む** | とむ | 富有、富含 (五段自動) | 經驗に**富む**（經驗豐富）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#122-豐富的精細分工豊かゆたか與-富むとむ的語意與漢字字源差別) 辨析。 |
 | 🟡 **富** | とみ | 財富、富裕 | **富**を築く（累積財富）。 |
 | 🟢 **富士山** | ふじさん | 富士山 | 日本の象徴である**富士山**（作為日本象徵的富士山）。 |
+| 🟡 **複雑な** | ふくざつな | 複雜的 (な形容詞) | **複雑**な問題（複雜的問題）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#130-複製品的精確語境複製ふくせい與-複寫複寫---ふくしゃ的用詞差異) 辨析。 |
 
 ---
 
