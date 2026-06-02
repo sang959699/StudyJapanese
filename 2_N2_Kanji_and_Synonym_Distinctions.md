@@ -1,9 +1,10 @@
 # 🌸 JLPT N2 核心備考與學習優化筆記（二）：核心漢字與近義詞辨析
 
-本筆記已拆分為三個部分，以減少 Context 長度並提升學習效率：
+本筆記已拆分為四個部分，以減少 Context 長度並提升學習效率：
 1. **[第一部分：學習策略與文法句型](file:///D:/StudyJapanese/1_N2_Study_Strategy_and_Grammar.md)**
 2. **[第二部分：核心漢字與近義詞辨析](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md)** (本文件)
 3. **[第三部分：自他動詞與分類詞彙表](file:///D:/StudyJapanese/3_N2_Vocabulary_Bank_and_Verbs.md)**
+4. **[第四部分：副詞與接續詞專項](file:///D:/StudyJapanese/4_N2_Adverbs_and_Conjunctions.md)**
 
 ---
 

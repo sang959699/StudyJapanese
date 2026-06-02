@@ -5,7 +5,10 @@ import json
 import random
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-VOCAB_FILE = os.path.join(WORKSPACE_DIR, "3_N2_Vocabulary_Bank_and_Verbs.md")
+VOCAB_FILES = [
+    os.path.join(WORKSPACE_DIR, "3_N2_Vocabulary_Bank_and_Verbs.md"),
+    os.path.join(WORKSPACE_DIR, "4_N2_Adverbs_and_Conjunctions.md")
+]
 OUTPUT_FILE = os.path.join(WORKSPACE_DIR, "questions.js")
 
 def clean_markdown_formatting(text):
@@ -66,71 +69,73 @@ def extract_example_sentences(details_text, keyword):
     return sentences
 
 def main():
-    if not os.path.exists(VOCAB_FILE):
-        print(f"Error: {VOCAB_FILE} not found!")
-        return
-
     print("Parsing vocabulary notes...")
     vocab_items = []
     自他_items = []
 
-    with open(VOCAB_FILE, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-
-    current_section = ""
-    for line in lines:
-        line_strip = line.strip()
-        if line_strip.startswith("##") or line_strip.startswith("###"):
-            current_section = line_strip
+    for vocab_file in VOCAB_FILES:
+        if not os.path.exists(vocab_file):
+            print(f"Warning: {vocab_file} not found, skipping...")
             continue
-
-        if not line_strip.startswith("|"):
-            continue
-
-        # 分割表格行
-        cols = [c.strip() for c in line_strip.split("|")][1:-1]
-        if not cols:
-            continue
-
-        # 跳過表頭與分隔線
-        if "自動詞" in cols[0] or "漢字" in cols[0] or cols[0].startswith(":---") or cols[0].startswith("---"):
-            continue
-
-        # 1. 解析自他動詞對整理 (3個欄位)
-        if len(cols) == 3:
-            raw_auto, raw_trans, details = cols
-            p_auto, word_auto_full = parse_priority_and_word(raw_auto)
-            p_trans, word_trans_full = parse_priority_and_word(raw_trans)
             
-            auto_kanji, auto_reading = parse_parenthesis_reading(word_auto_full)
-            trans_kanji, trans_reading = parse_parenthesis_reading(word_trans_full)
-            
-            details_replaced = re.sub(r'<br\s*/?>', '; ', details)
-            details_clean = clean_markdown_formatting(details_replaced)
-            
-            自他_items.append({
-                "priority": p_auto,
-                "auto_kanji": auto_kanji,
-                "auto_reading": auto_reading,
-                "trans_kanji": trans_kanji,
-                "trans_reading": trans_reading,
-                "details": details_clean
-            })
+        print(f"Reading from {os.path.basename(vocab_file)}...")
+        with open(vocab_file, "r", encoding="utf-8") as f:
+            lines = f.readlines()
 
-        # 2. 解析普通詞彙表 (4個欄位)
-        elif len(cols) == 4:
-            raw_kanji, raw_reading, raw_meaning, details = cols
-            priority, kanji = parse_priority_and_word(raw_kanji)
-            reading = clean_markdown_formatting(raw_reading)
-            meaning = clean_markdown_formatting(raw_meaning)
-            
-            vocab_items.append({
-                "priority": priority,
-                "kanji": kanji,
-                "reading": reading,
-                "meaning": meaning,
-                "details": details
-            })
+        current_section = ""
+        for line in lines:
+            line_strip = line.strip()
+            if line_strip.startswith("##") or line_strip.startswith("###"):
+                current_section = line_strip
+                continue
+
+            if not line_strip.startswith("|"):
+                continue
+
+            # 分割表格行
+            cols = [c.strip() for c in line_strip.split("|")][1:-1]
+            if not cols:
+                continue
+
+            # 跳過表頭與分隔線
+            if "自動詞" in cols[0] or "漢字" in cols[0] or cols[0].startswith(":---") or cols[0].startswith("---"):
+                continue
+
+            # 1. 解析自他動詞對整理 (3個欄位)
+            if len(cols) == 3:
+                raw_auto, raw_trans, details = cols
+                p_auto, word_auto_full = parse_priority_and_word(raw_auto)
+                p_trans, word_trans_full = parse_priority_and_word(raw_trans)
+                
+                auto_kanji, auto_reading = parse_parenthesis_reading(word_auto_full)
+                trans_kanji, trans_reading = parse_parenthesis_reading(word_trans_full)
+                
+                details_replaced = re.sub(r'<br\s*/?>', '; ', details)
+                details_clean = clean_markdown_formatting(details_replaced)
+                
+                自他_items.append({
+                    "priority": p_auto,
+                    "auto_kanji": auto_kanji,
+                    "auto_reading": auto_reading,
+                    "trans_kanji": trans_kanji,
+                    "trans_reading": trans_reading,
+                    "details": details_clean
+                })
+
+            # 2. 解析普通詞彙表 (4個欄位)
+            elif len(cols) == 4:
+                raw_kanji, raw_reading, raw_meaning, details = cols
+                priority, kanji = parse_priority_and_word(raw_kanji)
+                reading = clean_markdown_formatting(raw_reading)
+                meaning = clean_markdown_formatting(raw_meaning)
+                
+                vocab_items.append({
+                    "priority": priority,
+                    "kanji": kanji,
+                    "reading": reading,
+                    "meaning": meaning,
+                    "details": details
+                })
 
     print(f"Extracted {len(自他_items)} transitive/intransitive verb pairs.")
     print(f"Extracted {len(vocab_items)} vocabulary items.")

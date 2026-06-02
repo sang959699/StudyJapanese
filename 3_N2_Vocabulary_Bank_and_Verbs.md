@@ -1,9 +1,10 @@
 # 🌸 JLPT N2 核心備考與學習優化筆記（三）：自他動詞與分類詞彙表
 
-本筆記已拆分為三個部分，以減少 Context 長度並提升學習效率：
+本筆記已拆分為四個部分，以減少 Context 長度並提升學習效率：
 1. **[第一部分：學習策略與文法句型](file:///D:/StudyJapanese/1_N2_Study_Strategy_and_Grammar.md)**
 2. **[第二部分：核心漢字與近義詞辨析](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md)**
 3. **[第三部分：自他動詞與分類詞彙表](file:///D:/StudyJapanese/3_N2_Vocabulary_Bank_and_Verbs.md)** (本文件)
+4. **[第四部分：副詞與接續詞專項](file:///D:/StudyJapanese/4_N2_Adverbs_and_Conjunctions.md)**
 
 ---
 
@@ -966,8 +967,6 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 漢字 | 讀音 | 中文釋義 | 記憶要點 / 例句 |
 | :--- | :--- | :--- | :--- |
 | 🟢 **抽象的** | ちゅうしょうてき | 抽象的 | **抽象的**な説明で分かりにくい（解釋太抽象了聽不懂） |
-| 🔴 **一段と** | いちだんと | 更加、越發 | 今日は**一段と**寒い（比以往更冷）。表示程度深了一層（同：いっそう、さらに）。 |
-| 🔴 **常々** | つねづね | 經常、總是 | **常々**準備をしておく（時刻做好準備） |
 | 🔴 **快い** | こころよい | 爽快、高興地 | 頼みを**快く**引き受ける（爽快地答應了請求） |
 | 🔴 **騒々しい** | そうぞうしい | 嘈雜的、鬧哄哄的 | 外が**騒々しい**（外面吵吵嚷嚷的） |
 | 🔴 **喧しい** | やかましい | 吵鬧的、挑剔的 | 音が**喧しい** / 規則に**喧しい**（對規則極其挑剔/嚴苛） |
@@ -1118,14 +1117,11 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **浅ましい** | あさましい | 卑鄙的、可恥的、下流的、悲慘的 | 臉皮厚或心術不正到令人難以直視（如：浅ましい根性 卑鄙的本性）。 |
 | 🟢 **相互** | そうご | 相互、彼此 | 靜態雙向關係，用於複合詞（如：相互理解 相互理解）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🟡 **交互** | こうご | 輪流、交替 | 動作交替輪流進行，常以 **交互に** 形式使用（如：交互に意見を述べる 輪流陳述意見）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
-| 🔴 **お互いに** | おたがいに | 互相、彼此（副詞） | 口語中表達雙方都做某事（如：お互いに助け合う 互相幫助）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🟡 **活發な / 活発な** | かっぱつな | 活潑的、活躍的、蓬勃的 | 動態或生命力極其旺盛的狀態（如：活発な議論 活躍的討論）。 |
 | 🟡 **健在** | けんざい | 健在、安康 | 健健康康地活著、依然安好（如：祖父は今も健在だ 祖父現在依然健在）。 |
 | 🔴 **健やかな** | すこやかな | 健康的、健壯的 | 身心發育健全、充滿朝氣（如：健やかに育つ 健康地成長）。 |
 | 🟡 **諸般** | しょはん | 各種各樣、諸般 | 用於正式場合說明各種情況（如：諸般の事情により 由於種種原因）。 |
 | 🟡 **諸問題** | しょもんだい | 各種問題、諸多問題 | `諸` (諸多) + `問題` ➔ 許多個問題（如：諸問題を解決する 解決許多問題）。 |
-| 🔴 **あいにく** | あいにく | 不巧、遺憾、偏偏 | 情況不合心意、時機不對（如：あいにくの雨 不巧下雨了 / あいにく留守にしております 很抱歉偏偏不在家）。 |
-| 🔴 **幸い** | さいわい | 幸福、幸好、如果...就太好了 | 幸運的事或表示希望（如：幸い大火事にはならなかった 幸好沒有釀成大火 / ご返信いただければ幸いです 若能回信我將不勝榮幸）。 |
 | 🟡 **失望** | しつぼう | 失望、絕望 | 期望落空而感到沮喪（如：彼には失望した 對他感到失望）。 |
 | 🟡 **辺り** | あたり | 周圍、附近、這一帶 | 物理空間或氛圍的周邊區域（如：この辺りは交通の便が良い 這一帶交通很方便）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🟢 **誤り** | あやまり | 錯誤、失誤 | 行為或內容偏離正確標準（如：誤りを見つける 找出錯誤 / 誤りのない文章 沒有錯誤的文章）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
@@ -1137,7 +1133,6 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **適当な** | てきとうな | 適合的、隨便的、敷衍的 | 1. 適合（正式）。2. 馬虎隨便（口語）（如：適当な場所 適合的地方 / 適当に返事をする 敷衍地回答）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🟡 **適切な** | てきせつな | 適當的、恰當的、妥當的 | 100%符合客觀要求，完全正確（如：適切なアドバイス 恰當的建議）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
 | 🟡 **適度な** | てきどな | 適度的、適量的 | 程度或數量剛好，不過度（如：適度な運動 適度的運動）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md) 辨析。 |
-| 🔴 **直ちに** | ただちに | 立刻、立即、直接 | 不耽誤時間地採取行動（如：直ちに出発する 立刻出發）。 |
 | 🟡 **正直** | しょうじき | 老實、誠實；老實說 | 誠實沒有欺騙（如：正直な人 誠實的人 / 正直に言うと... 老實說...）。 |
 | 🟡 **周囲** | しゅうい | 周圍、四周、周長 | 物理上的周邊或周長（如：周囲の状況 周圍的狀況 / 池の周囲 池塘的周長）。 |
 | 🟡 **夢中** | むちゅう | 熱衷、著迷；渾然忘我 | 心神專注於某事而忘記其他一切（如：ゲームに夢中になる 玩遊戲玩得渾然忘我）。 |
@@ -1205,28 +1200,21 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **複雑な** | ふくざつな | 複雜的 (な形容詞) | **複雑**な問題（複雜的問題）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#130-複製品的精確語境複製ふくせい與-複寫複寫---ふくしゃ的用詞差異) 辨析。 |
 | 🟡 **積極的** | せっきょくてき | 積極的 (な形容詞) | **積極的**な活動（積極的活動）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
 | 🟡 **消極的** | しょうきょくてき | 消極的 (な形容詞) | **消極的**な態度（消極的態度）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
-| 🟡 **極** | きょく / ごく | 極、非常 | **極**めて重要な問題（極其重要的問題，用作副詞）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
 | 🟡 **極み** | きわみ | 極致、頂點 | 贅沢の**極み**（奢侈的極致）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
 | 🟡 **苦い** | にがい | 苦的、痛苦的 | **苦い**薬（苦藥） / **苦い**経験（痛苦的經驗）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
 | 🟡 **苦しい** | くるしい | 痛苦的、艱難的 | 生活が**苦しい**（生活艱難）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
 | 🟡 **苦痛** | くつう | 痛苦、苦楚 | 精神的な**苦痛**（精神上的痛苦）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
-| 🟡 **一応** | いちおう | 姑且、大致上 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#145-應字輩家族的核心畫面応募-vs-一応-vs-應じる-vs-應用) 辨析。 |
-| 🟡 **単に** | たんに | 僅僅、只不過是 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
 | 🟡 **単なる** | たんなる | 單純的、僅僅的 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
 | 🟡 **程度** | ていど | 程度、水準 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#142-程的讀音分工與句型結構てい程度過程-vs-ほど程度接續助詞) 辨析。 |
 | 🟡 **蒸し暑い** | むしあつい | 悶熱、又濕又熱 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#154-蒸的家族讀音與狀態蒸すむす-vs-蒸し暑い-vs-蒸発-vs-水蒸気) 辨析。 |
-| 🟡 **結構な** | けっこうな | 很好、夠了、極好 (な形容詞/副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#158-構的家族核心畫面構成こうせい-vs-構内こうない-vs-結構けっこう-vs-構うかまう) 辨析。 |
 | 🟡 **遅い** | おそい | 慢的、遲的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#159-遲的時間概念分工遅いおそい-vs-遅れるおくれる-vs-遅刻ちこく) 辨析。 |
 | 🟡 **濃度** | のうど | 濃度 (名詞) | 液体や気体の**濃度**（液體或氣體的濃度）。 |
 | 🟡 **濃い** | こい | 濃的、深色的 (い形容詞) | スープの味が**濃い**（湯的味道很濃）/ 色が**濃い**（顏色很深）。 |
 | 🟡 **丸い** | まるい | 圓的、球形的 (い形容詞) | **丸い**ボール（圓形的球）/ **丸い**テーブル（圓桌）。 |
-| 🟡 **予め** | あらかじめ | 預先、提前 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#165-預備與先期動作予めあらかじめ-vs-事前に-vs-前もって) 辨析。 |
 | 🟡 **乱暴な** | らんぼうな | 粗暴的、野蠻的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
-| 🟡 **率直に** | そっちょくに | 率直地、坦率地 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#166-率字的多音字對決りつ比例能率-vs-そつ坦率引率) 辨析。 |
 | 🟡 **陽気な** | ようきな | 暖和天氣/開朗個性 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#169-陽氣的雙重面貌暖和天氣-vs-開朗個性) 辨析。 |
 | 🟡 **偉い** | えらい | 了不起、地位高、吃力 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
 | 🟡 **偉大** | いだい | 偉大、卓越 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
-| 🟡 **絶えず** | たえず | 不斷地、經常 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#180-同音異義字たつ的分工絶つ-vs-断つ-及副詞絶えず) 辨析。 |
 | 🟡 **容易** | ようい | 簡單的、容易的 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
 | 🟡 **易しい** | やさしい | 簡單的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
 | 🟡 **安易な** | あんいな | 輕率的、隨便的、容易的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
@@ -1244,7 +1232,6 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **大幅な** | おおはばな | 大幅的、廣泛的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#230-幅的寬度與幅度幅はば-vs-大幅おおはば) 說明。 |
 | 🟡 **著しい** | いちじるしい | 顯著的、明顯的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#231-著的寫作與顯著特徵著者ちょしゃ-vs-著すあらわす-vs-著しいいちじるしい) 說明。 |
 | 🟡 **比較** | ひかく | 比較 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#233-比的對比與比較比較ひかく-vs-比べるくらべる-vs-比較的ひかくてき) 說明。 |
-| 🟡 **比較的** | ひかくてき | 比較地、相對地 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#233-比的對比與比較比較ひかく-vs-比べるくらべる-vs-比較的ひかくてき) 說明。 |
 | 🟡 **平年並み** | へいねんなみ | 與往年相同、平年水準 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#234-並的排列與並列並ぶならぶ-vs-並べるならべる-vs-平年並みへいねんなみ-vs-並木なみき) 說明。 |
 | 🟡 **横ばい** | よこばい | 持平、沒有起伏 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#237-數據趨勢描述三横ばいよこばい與一定いってい) 說明。 |
 | 🟡 **一定** | いってい | 一定、固定 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#237-數據趨勢描述三横ばいよこばい與一定いってい) 說明。 |

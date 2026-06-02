@@ -1,6 +1,6 @@
 # 🌸 JLPT N2 學習筆記索引與分類指南 (Index & AI Guide)
 
-歡迎使用 N2 學習筆記系統！為了避免單一文件過大導致 Token 消耗過快與學習負載過重，本筆記系統已拆分為 **3 個核心模組**。
+歡迎使用 N2 學習筆記系統！為了避免單一文件過大導致 Token 消耗過快與學習負載過重，本筆記系統已拆分為 **4 個核心模組**。
 
 本文件為 **主導引與分類規則 (Instruction & Index)**。當你在 [note.txt](file:///D:/StudyJapanese/note.txt) 中追加新的學習內容、錯題或疑問時，AI 與你將依據以下規則將內容分類歸檔至對應的筆記文件中。
 
@@ -39,12 +39,17 @@
         *   `Ⅱ. 家庭與日常生活`
         *   `Ⅲ. 動作、身體與狀態`
         *   `Ⅳ. 金融與銀行操作`
-        *   `Ⅴ. 描述、程度與副詞`
+        *   `Ⅴ. 描述、程度與形容詞` (原「描述、程度與副詞」，副詞已拆分)
 
-### 4. 🎮 [第四部分：本地智慧刷題系統](file:///D:/StudyJapanese/index.html)
+### 4. ⚡ [第四部分：副詞與接續詞專項](file:///D:/StudyJapanese/4_N2_Adverbs_and_Conjunctions.md)
+*   **收錄內容**：
+    *   ✨ **副詞專項整理表**（依據語意、記憶要點分類整理，注重副詞與特定句型的呼應）。
+    *   🔗 **接續詞專項整理表**（用於閱讀理解的因果、轉折、遞進句型導航）。
+
+### 5. 🎮 [第五部分：本地智慧刷題系統](file:///D:/StudyJapanese/index.html)
 *   **收錄內容與功能**：
     *   [index.html](file:///D:/StudyJapanese/index.html)：網頁端互動刷題面板，支持讀音選擇、釋義選擇、自他動詞配對及句子填空題。
-    *   [scratch/update_questions.py](file:///D:/StudyJapanese/scratch/update_questions.py)：本地 Python 題庫生成與更新腳本，讀取第三部分詞彙表自動編譯生成題目。
+    *   [scratch/update_questions.py](file:///D:/StudyJapanese/scratch/update_questions.py)：本地 Python 題庫生成與更新腳本，讀取第三、四部分詞彙表自動編譯生成題目。
     *   [questions.js](file:///D:/StudyJapanese/questions.js)：存放編譯後題庫數據的 JavaScript 檔案（已在 [.gitignore](file:///D:/StudyJapanese/.gitignore) 中設定忽略，切勿提交至 Git）。
 
 ---
@@ -54,7 +59,7 @@
 為了配合日常筆記更新並隨時練習，本系統配備了本地互動式網頁刷題系統。
 
 ### 🔄 題庫更新流程與使用步驟
-1.  **更新筆記**：在 [第三部分：自他動詞與分類詞彙表](file:///D:/StudyJapanese/3_N2_Vocabulary_Bank_and_Verbs.md) 中新增或修改單字。
+1.  **更新筆記**：在 [第三部分：自他動詞與分類詞彙表](file:///D:/StudyJapanese/3_N2_Vocabulary_Bank_and_Verbs.md) 或 [第四部分：副詞與接續詞專項](file:///D:/StudyJapanese/4_N2_Adverbs_and_Conjunctions.md) 中新增或修改單字。
 2.  **重新編譯題庫**：在終端機中執行以下命令，以執行 Python 腳本更新題庫數據：
     ```bash
     python scratch/update_questions.py
@@ -78,6 +83,7 @@
 *   **規則 A**：如果是**句型、語意理解邏輯、長句拆解或純文法規則**，將其追加至 **[第一部分（策略與文法）](file:///D:/StudyJapanese/1_N2_Study_Strategy_and_Grammar.md)** 的末尾。
 *   **規則 B**：如果是**漢字寫法辨析、同音字對比、字根家族、近義詞/反義詞（Synonyms/Antonyms）對比**，在 **[第二部分（漢字與近義詞）](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md)** 新增一個 numbered section 追加進去，並同步更新該文件最上方的目錄（TOC）。
 *   **規則 C**：如果是**單一單字、短語、自他動詞配對**，將其新增至 **[第三部分（自他動詞與分類詞彙）](file:///D:/StudyJapanese/3_N2_Vocabulary_Bank_and_Verbs.md)** 對應的分類表格中。
+*   **規則 D**：如果是**副詞、接續詞**，將其新增至 **[第四部分（副詞與接續詞專項）](file:///D:/StudyJapanese/4_N2_Adverbs_and_Conjunctions.md)** 對應的表格中。
 
 ### 🏷️ 步驟三：標註優先級與格式化
 1.  所有新加入的單字或漢字辨析，必須明確標上優先級標記：
