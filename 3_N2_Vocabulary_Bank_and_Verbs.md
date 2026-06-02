@@ -218,6 +218,9 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **巨額** | きょがく | 巨額、龐大的金額 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#192-巨的規模化名詞巨額きょがく-vs-巨大きくょだい) 辨析。 |
 | 🟡 **雇用** | こよう | 僱用、聘用 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#204-聘用與開除的兩極詞彙雇用こよう-vs-解雇かいこ) 說明。 |
 | 🟡 **解雇** | かいこ | 解僱、開除 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#204-聘用與開除的兩極詞彙雇用こよう-vs-解雇かいこ) 說明。 |
+| 🟢 **削減** | さくげん | 削減、縮減 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 辨析。 |
+| 🟢 **財政** | ざいせい | 財政、經濟狀況 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#228-國家與社會經濟財政ざいせい與不況ふきょう的搭配語境) 說明。 |
+| 🟢 **不況** | ふきょう | 不景氣、經濟蕭條 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#228-國家與社會經濟財政ざいせい與不況ふきょう的搭配語境) 說明。 |
 
 ---
 
@@ -544,6 +547,11 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **似顔絵** | にがおえ | 畫像、似顏繪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#218-似的模仿與人像畫似るにる-vs-似顔絵にがおえ-vs-似せる) 說明。 |
 | 🟢 **評価** | ひょうか | 評價、價值評估 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#221-詞彙辨析評價與評判有何區別評價價值評估-vs-評判社會名聲口碑) 辨析。 |
 | 🟢 **評判** | ひょうばん | 評判、名聲、口碑 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#221-詞彙辨析評價與評判有何區別評價價值評估-vs-評判社會名聲口碑) 辨析。 |
+| 🟢 **境** | さかい | 邊界、分界線 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#222-境的邊界與界線境さかい-vs-県境けんざかい-vs-国境こっきょう) 說明。 |
+| 🟢 **県境** | けんざかい | 縣與縣的邊界 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#222-境的邊界與界線境さかい-vs-県境けんざかい-vs-国境こっきょう) 說明。 |
+| 🟢 **国境** | こっきょう | 國境、國界 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#222-境的邊界與界線境さかい-vs-県境けんざかい-vs-国境こっきょう) 說明。 |
+| 🟢 **県庁** | けんちょう | 縣政府、縣廳 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#225-地方行政與辦公県庁けんちょう與相關政務詞彙) 說明。 |
+| 🟢 **独身** | どくしん | 單身、未婚 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
 
 ---
 
@@ -900,6 +908,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **覚める** | さめる | 醒、醒悟、酒醒 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#220-覚的清醒與記憶家族覚めるさめる-vs-覚ますさます-vs-覚える-vs-目覚まし時計) 辨析。 |
 | 🔴 **自供する** | じきょうする | 招供、坦白 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#217-欲望驅使與罪犯口供遊ぶ金欲しさにたさに與自供的結合) 說明。 |
 | 🔴 **似る** | にる | 相似、相像 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#218-似的模仿與人像畫似るにる-vs-似顔絵にがおえ-vs-似せる) 說明。 |
+| 🔴 **減らす** | へらす | 減少、縮減 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 辨析。 |
+| 🔴 **減る** | へる | 減少、縮小 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 辨析。 |
+| 🔴 **努める** | つとめる | 努力、盡力 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#224-同音詞つとめる的漢字大對決努める努力-vs-勤める工作-vs-務める擔任角色) 辨析。 |
+| 🔴 **行き来する** | いききする | 來往、交往 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#226-往來與交往行き来いききゆきき與社交聯絡) 說明。 |
+| 🟢 **独り言** | ひとりごと | 自言自語 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
+| 🟢 **腕前** | うでまえ | 手藝、技術、本領 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#229-實力與技能的展現腕前うでまえ與腕的慣用語) 說明。 |
 
 ---
 
@@ -1209,6 +1223,11 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **荒い** | あらい | 粗暴的、狂暴的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#209-荒的荒蕪與粗野家族荒いあらい-vs-荒れるあれる-vs-荒らすあらす) 辨析。 |
 | 🟡 **賢明な** | けんめいな | 賢明的、明智的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#213-賢的賢明與聰慧賢いかしこい與音讀-賢明けんめい) 辨析。 |
 | 🟡 **勇ましい** | いさましい | 勇敢的、雄壯的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#214-勇的勇氣與豪邁勇ましいいさましい與音讀-勇気ゆうき) 說明。 |
+| 🟡 **増減** | ぞうげん | 增加與減少、波動 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 辨析。 |
+| 🟡 **加減** | かげん | 程度、身體狀況、適度調整 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 辨析。 |
+| 🟡 **いい加減な** | いいかげんな | 適度、敷衍、隨便的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#223-減的量化與控制削減さくげん-vs-増減ぞうげん-vs-減るへる-vs-減らすへらす-及-加減かげん) 說明。 |
+| 🟡 **独自** | どくじ | 獨特、獨自的 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
+| 🟡 **日独** | にちどく | 日本與德國 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#227-独的單獨與特有家族独自どくじ-vs-日独にちどく-vs-独身どくしん-vs-独り言ひとりごと) 說明。 |
 
 ---
 
