@@ -215,6 +215,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **野党** | やとう | 在野黨 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#181-朝野政黨對決与党よとう-vs-野党やとう) 辨析。 |
 | 🟡 **貿易** | ぼうえき | 貿易、國際貿易 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#186-易的讀音與含意分工貿易えき-vs-容易い-vs-易しいやさしい-vs-安易あんい) 辨析。 |
 | 🟡 **命令** | めいれい | 命令 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#187-命令與人命的二元字源命令めいれい命じる-vs-命いのち) 辨析。 |
+| 🟡 **巨額** | きょがく | 巨額、龐大的金額 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#192-巨的規模化名詞巨額きょがく-vs-巨大きくょだい) 辨析。 |
 
 ---
 
@@ -520,6 +521,16 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **水害** | すいがい | 水災、洪災 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
 | 🟢 **殺害** | さつがい | 殺害、謀殺 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
 | 🟢 **星印** | ほしじるし | 星星標記、星號 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#190-星標記與符號標記星印ほしじるし與印的讀音分工) 說明。 |
+| 🟢 **逆さ** | さかさ | 顛倒、倒過來 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#195-逆的方向與違背逆ささかさ-vs-逆らうさからう-及音讀逆轉) 說明。 |
+| 🟢 **投書** | とうしょ | 投書、意見投遞 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#197-投的動作與動作對象投げるなげる-vs-投書とうしょ-vs-投資とうし) 說明。 |
+| 🟢 **骨折** | こっせつ | 骨折 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#199-骨的音訓讀與雙聲疊韻骨ほね與骨折こっせつ) 說明。 |
+| 🟢 **骨** | ほね | 骨頭、骨架 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#199-骨的音訓讀與雙聲疊韻骨ほね與骨折こっせつ) 說明。 |
+| 🟢 **針金** | はりがね | 金屬線、鐵絲 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#200-同音異義詞しんろ的針路航向與進路生涯發展大辨析) 說明。 |
+| 🟢 **針路** | しんろ | 航向、羅針盤方向 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#200-同音異義詞しんろ的針路航向與進路生涯發展大辨析) 說明。 |
+| 🟢 **進路** | しんろ | 前途、生涯規劃、前進道路 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#200-同音異義詞しんろ的針路航向與進路生涯發展大辨析) 說明。 |
+| 🟢 **速報** | そくほう | 新聞快報、速報 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
+| 🟢 **見出し** | みだし | 標題、新聞標題 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
+| 🟢 **記事** | kiじ | 報導、新聞文章 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#202-報社與媒體的黃金三角名詞速報そくほう-vs-見出しみだし-vs-記事きじ) 說明。 |
 
 ---
 
@@ -853,6 +864,14 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **被る** | かぶる | 蒙受、戴、遭受 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#188-法律與意外的責任名詞被害-vs-加害者-vs-被告-及動詞被る) 辨析。 |
 | 🔴 **盛る** | もる | 盛放、堆積 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
 | 🔴 **殺害する** | さつがいする | 殺害、謀殺 (サ變他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#189-各種社會與自然災害名詞公害-vs-水害-vs-殺害) 說明。 |
+| 🔴 **競う** | きそう | 競爭、爭奪 (五段自他) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#193-競的競爭讀音對決競うきそう-vs-競爭きょうそう-vs-競馬けいば) 辨析。 |
+| 🔴 **敗れる** | やぶれる | 失敗、輸掉 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#194-同音詞やぶれる的漢字分工敗れる被擊敗-vs-破れる損壞撕裂) 辨析。 |
+| 🔴 **逆らう** | さからう | 違背、反抗 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#195-逆的方向與違背逆ささかさ-vs-逆らうさからう-及音讀逆轉) 辨析。 |
+| 🔴 **譲る** | ゆずる | 讓、轉讓、退讓 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#196-讓的轉讓與客氣譲るゆずる與謙讓語的淵源) 說明。 |
+| 🔴 **投げる** | なげる | 扔、投擲 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#197-投的動作與動作對象投げるなげる-vs-投書とうしょ-vs-投資とうし) 說明。 |
+| 🔴 **倒す** | たおす | 推倒、擊敗 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#198-倒下與擊倒的自他動詞倒れるたおれる-vs-倒すたおす-及音讀倒產) 辨析。 |
+| 🔴 **倒れる** | たおれる | 倒下、病倒、倒閉 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#198-倒下與擊倒的自他動詞倒れるたおれる-vs-倒すたおす-及音讀倒產) 辨析。 |
+| 🔴 **叫ぶ** | さけぶ | 呼喊、呼籲 (五段自他) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#201-叫的大聲呼喊叫ぶさけぶ與命令形叫べ) 說明。 |
 
 ---
 
@@ -884,6 +903,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **領収書** | りょうしゅうしょ | 收據、發票（正式報銷憑證）| 宛名入りの**領収書**をいただく（拿到寫有抬頭的收據） |
 | 🟡 **払込受領証** | はらいこみじゅりょうしょう | 付款收據、繳費證明 | 銀行で受け取った**払込受領証**（在銀行收到的繳費存根） |
 | 🟡 **破格** | はかく | 破格的、特例的、超便宜的 | 1. 突破常規（如：破格の待遇 破格的待遇）。2. 便宜得不像話（如：破格の値段 破格的便宜價格/跳樓價）。 |
+| 🟡 **投資** | とうし | 投資 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#197-投的動作與動作對象投げるなげる-vs-投書とうしょ-vs-投資とうし) 說明。 |
 
 ---
 
