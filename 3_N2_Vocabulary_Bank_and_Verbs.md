@@ -402,6 +402,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **北極** | ほっきょく | 北極 | **北極**熊（北極熊）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
 | 🟢 **南極** | なんきょく | 南極 | **南極**觀測船（南極觀測船）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
 | 🟢 **革製** | かわせい | 皮革製 | **革製**的皮包（皮革製皮包）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦にがいくるしいく) 辨析。 |
+| 🟢 **群れ** | むれ | 群體、群 | 鳥の**群れ**（鳥群）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
 
 ---
 
@@ -677,6 +678,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **復旧** | ふっきゅう | 恢復原狀、修復 (名詞/サ變) | 鐵路が**復旧**する（鐵路修復/通車）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#136-重建與修復的分工復舊ふっきゅう與-復興ふっこう的對象與階段差異) 辨析。 |
 | 🔴 **薄める** | うすめる | 稀釋、變淡 (五段他動) | 味を**薄める**（稀釋味道）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#138-厚薄對立面厚切り厚手-vs-薄切り薄手薄める-的量感與搭配分工) 辨析。 |
 | 🔴 **苦しむ** | くるしむ | 痛苦、受折磨 (五段自動) | 病氣に**苦しむ**（受疾病折磨）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦にがいくるしいく) 辨析。 |
+| 🔴 **群れる** | むれる | 成群、集體行動 (一段自動) | 成群集體行動的動物。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
+| 🔴 **群がる** | むらがる | 蜂擁、圍聚 (五段自動) | 大量昆蟲或粉絲蜂擁圍聚。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
 
 ---
 
