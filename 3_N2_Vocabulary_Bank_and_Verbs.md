@@ -211,6 +211,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **能率** | のうりつ | 效率、能率 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#166-率字的多音字對決りつ比例能率-vs-そつ坦率引率) 辨析。 |
 | 🟢 **漁船** | ぎょせん | 漁船 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#171-漁的雙重音讀ぎょ漁船漁業-vs-りょう漁師漁) 辨析。 |
 | 🟢 **漁師** | りょうし | 漁夫、漁民 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#171-漁的雙重音讀ぎょ漁船漁業-vs-りょう漁師漁) 辨析。 |
+| 🟢 **与党** | よとう | 執政黨 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#181-朝野政黨對決与党よとう-vs-野党やとう) 辨析。 |
+| 🟢 **野党** | やとう | 在野黨 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#181-朝野政黨對決与党よとう-vs-野党やとう) 辨析。 |
 
 ---
 
@@ -503,6 +505,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **水滴** | すいてき | 水滴 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#173-滴的液體凝結水滴すいてき與動詞-滴るしたたる) 辨析。 |
 | 🟢 **海底** | かいてい | 海底 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#175-底的空間深度海の底そこ與音讀-海底かいてい-徹底てってい) 辨析。 |
 | 🟢 **底** | そこ | 底部、底 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#175-底的空間深度海の底そこ與音讀-海底かいてい-徹底てってい) 辨析。 |
+| 🟢 **強盗** | ごうとう | 強盜、搶劫、搶匪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#176-盗的非法奪取盗む-vs-強盗-vs-盗難-的語境差異) 辨析。 |
+| 🟢 **盗難** | とうなん | 失竊、被盜 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#176-盗的非法奪取盗む-vs-強盗-vs-盗難-的語境差異) 辨析。 |
+| 🟢 **補助** | ほじょ | 補助、協助 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#182-補足與填補補うおぎなう與音讀-補助ほじょ補給) 說明。 |
+| 🟢 **児童** | じどう | 兒童 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#183-兒童與故事的世界児童じどう-vs-童話どうわ-vs-おとぎ話) 說明。 |
+| 🟢 **童話** | どうわ | 童話 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#183-兒童與故事的世界児童じどう-vs-童話どうわ-vs-おとぎ話) 說明。 |
+| 🟢 **おとぎ話** | おとぎばなし | 民間故事、神話傳說 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#183-兒童與故事的世界児童じどう-vs-童話どうわ-vs-おとぎ話) 說明。 |
 
 ---
 
@@ -816,6 +824,22 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **恵まれる** | めぐまれる | 富於、幸運地擁有 (下一自動/被動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
 | 🔴 **滴る** | したたる | 滴落、流露 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#173-滴的液體凝結水滴すいてき與動詞-滴るしたたる) 辨析。 |
 | 🔴 **徹底する** | てっていする | 徹底 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#175-底的空間深度海の底そこ與音讀-海底かいてい-徹底てってい) 辨析。 |
+| 🔴 **盗む** | ぬすむ | 偷竊 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#176-盗的非法奪取盗む-vs-強盗-vs-盗難-的語境差異) 辨析。 |
+| 🔴 **奪う** | うばう | 搶奪、奪取、吸引 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#177-奪取與吸引奪ううばう的多重用法與畫面感) 辨析。 |
+| 🔴 **逃げる** | にげる | 逃跑、躲避 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#178-逃跑縱容與錯失逃げる-vs-逃がす-vs-逃す-的核心分工) 辨析。 |
+| 🔴 **逃がす** | にがす | 放走、釋放 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#178-逃跑縱容與錯失逃げる-vs-逃がす-vs-逃す-的核心分工) 辨析。 |
+| 🔴 **逃す** | のがす | 錯過、漏掉 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#178-逃跑縱容與錯失逃げる-vs-逃がす-vs-逃す-的核心分工) 辨析。 |
+| 🔴 **捕まる** | つかまる | 被捕、抓緊 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#179-捕捉自他動與抽象捕捉捕まる-vs-捕まえる-vs-捕る-vs-捕らえる-的精細區分) 辨析。 |
+| 🔴 **捕まえる** | つかまえる | 逮捕、抓住 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#179-捕捉自他動與抽象捕捉捕まる-vs-捕まえる-vs-捕る-vs-捕らえる-的精細區分) 辨析。 |
+| 🔴 **捕る** | とる | 捕獲活物 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#179-捕捉自他動與抽象捕捉捕まる-vs-捕まえる-vs-捕る-vs-捕らえる-的精細區分) 辨析。 |
+| 🔴 **捕らえる** | とらえる | 捉住、捕捉、掌握 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#179-捕捉自他動與抽象捕捉捕まる-vs-捕まえる-vs-捕る-vs-捕らえる-的精細區分) 辨析。 |
+| 🔴 **絶つ** | たつ | 斷絕、絕活物/生命 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#180-同音異義字たつ的分工絶つ-vs-断つ-及副詞絶えず) 辨析。 |
+| 🔴 **断つ** | たつ | 斷絕習慣/聯絡 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#180-同音異義字たつ的分工絶つ-vs-断つ-及副詞絶えず) 辨析。 |
+| 🔴 **補う** | おぎなう | 彌補、補充 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#182-補足與填補補うおぎなう與音讀-補助ほじょ補給) 辨析。 |
+| 🔴 **暴れる** | あばれる | 撒野、胡鬧 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#184-暴力與失控暴れるあばれる的核心畫面與詞彙) 辨析。 |
+| 🔴 **亡くす** | なくす | 失去至親 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#185-生命消逝的溫和與客觀表達亡くなる-vs-亡くす-vs-死亡) 辨析。 |
+| 🔴 **亡くなる** | なくなる | 去世、往生 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#185-生命消逝的溫和與客觀表達亡くなる-vs-亡くす-vs-死亡) 辨析。 |
+| 🔴 **死亡する** | しぼうする | 死亡 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#185-生命消逝的溫和與客觀表達亡くなる-vs-亡くす-vs-死亡) 辨析。 |
 
 ---
 
@@ -1115,6 +1139,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **陽気な** | ようきな | 暖和天氣/開朗個性 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#169-陽氣的雙重面貌暖和天氣-vs-開朗個性) 辨析。 |
 | 🟡 **偉い** | えらい | 了不起、地位高、吃力 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
 | 🟡 **偉大** | いだい | 偉大、卓越 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#174-偉的尊稱與形容詞偉いえらい-vs-偉大いだい) 辨析。 |
+| 🟡 **絶えず** | たえず | 不斷地、經常 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#180-同音異義字たつ的分工絶つ-vs-断つ-及副詞絶えず) 辨析。 |
 
 ---
 
