@@ -84,7 +84,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 漢字 | 讀音 | 中文釋義 | 記憶要點 / 例句 |
 | :--- | :--- | :--- | :--- |
 | 🔴 **長引く** | ながびく | 拖延、延長 | 会議が**長引く**（會議開得很長/拖拉） |
-| 🔴 **述べる** | のべる | 陳述、表達 | 意見を**述べる**（陳述意見、發表看法） |
+| 🔴 **述べる** | のべる | 陳述、表達 | 意見を**述べる**（陳述意見、發表看法）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#157-學術與表達的動詞分工論じるろんじる-vs-述べるのべる) 辨析。 |
 | 🔴 **まとめる** | まとめる | 彙整、總結、整理 | 意見を**まとめる**（彙整各方意見） |
 | 🔴 **求める** | もとめる | 索求、尋求、要求 | 意見を**求められて**（我被要求提出意見） |
 | 🟡 **配る** | くばる | 分發、分派 | 資料を**配る**（發資料） |
@@ -446,6 +446,19 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **油脂** | ゆし | 油脂 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
 | 🟡 **脂質** | ししつ | 脂質 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
 | 🟡 **油** | あぶら | 油 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#153-各種油與脂肪的分工油-vs-脂-vs-脂肪-vs-油脂-vs-脂質) 辨析。 |
+| 🟢 **封筒** | ふうとう | 信封 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#156-筒的讀音與名詞分工筒つつ-vs-封筒ふうとう-vs-水筒すいとう) 辨析。 |
+| 🟢 **筒** | つつ | 筒、管子 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#156-筒的讀音與名詞分工筒つつ-vs-封筒ふうとう-vs-水筒すいとう) 辨析。 |
+| 🟢 **水筒** | すいとう | 水壺、水筒 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#156-筒的讀音與名詞分工筒つつ-vs-封筒ふうとう-vs-水筒すいとう) 辨析。 |
+| 🟢 **構内** | こうない | 廠區、校區、站內、構內 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#158-構的家族核心畫面構成こうせい-vs-構内こうない-vs-結構けっこう-vs-構うかまう) 辨析。 |
+| 🟡 **構成** | こうせい | 構成、組成 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#158-構的家族核心畫面構成こうせい-vs-構内こうない-vs-結構けっこう-vs-構うかまう) 辨析。 |
+| 🟡 **遅刻** | ちこく | 遲到 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#159-遲的時間概念分工遅いおそい-vs-遅れるおくれる-vs-遅刻ちこく) 辨析。 |
+| 🟢 **振り仮名** | ふりがな | 振假名、注音假名 | 漢字に**振り仮名**をつける（給漢字標注假名）。 |
+| 🟢 **冊子** | さっし | 冊子、小冊子 | パンフレットの**冊子**（宣傳手冊的冊子）。 |
+| 🟢 **筆記** | ひっき | 筆記、筆錄 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#160-筆的家族與書寫工器具筆ふで-vs-鉛筆えんぴつ-vs-筆記ひっき-vs-筆者ひっしゃ) 辨析。 |
+| 🟢 **筆者** | ひっしゃ | 筆者、著者 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#160-筆的家族與書寫工器具筆ふで-vs-鉛筆えんぴつ-vs-筆記ひっき-vs-筆者ひっしゃ) 辨析。 |
+| 🟢 **筆** | ふで | 毛筆、筆 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#160-筆的家族與書寫工器具筆ふで-vs-鉛筆えんぴつ-vs-筆記ひっき-vs-筆者ひっしゃ) 辨析。 |
+| 🟢 **鉛筆** | えんぴつ | 鉛筆 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#160-筆的家族與書寫工器具筆ふで-vs-鉛筆えんぴつ-vs-筆記ひっき-vs-筆者ひっしゃ) 辨析。 |
+| 🟡 **仮免許** | かりめんきょ | 臨時駕照、假執照 | **仮免許**で路上練習をする（用臨時駕照在路上練習）。 |
 
 ---
 
@@ -742,6 +755,11 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **植える** | うえる | 種植、栽種 (下一他動) | 庭に花を**植える**（在庭院種花）。 |
 | 🔴 **含む** | ふくむ | 包含、含有 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#151-包含與融入的語境分工含むふくむ-vs-込むこむ) 辨析。 |
 | 🔴 **含める** | ふくめる | 包括、包含在內 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#151-包含與融入的語境分工含むふくむ-vs-込むこむ) 辨析。 |
+| 🔴 **論じる** | ろんじる | 論述、議論 (一段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#157-學術與表達的動詞分工論じるろんじる-vs-述べるのべる) 辨析。 |
+| 🔴 **構う** | かまう | 在意、管、理會 (五段自他) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#158-構的家族核心畫面構成こうせい-vs-構内こうない-vs-結構けっこう-vs-構うかまう) 辨析。 |
+| 🔴 **遅れる** | おくれる | 遲延、落後、比預定晚 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#159-遲的時間概念分工遅いおそい-vs-遅れるおくれる-vs-遅刻ちこく) 辨析。 |
+| 🔴 **採集する** | さいしゅうする | 採集、收集 (サ變動詞) | 植物の標本を**採集**する（採集植物標本）。 |
+| 🔴 **採る** | とる | 採取、採用、錄取 (五段他動) | 新人社員を**採る**（錄用新員工）。 |
 
 ---
 
@@ -1030,6 +1048,10 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **単なる** | たんなる | 單純的、僅僅的 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
 | 🟡 **程度** | ていど | 程度、水準 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#142-程的讀音分工與句型結構てい程度過程-vs-ほど程度接續助詞) 辨析。 |
 | 🟡 **蒸し暑い** | むしあつい | 悶熱、又濕又熱 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#154-蒸的家族讀音與狀態蒸すむす-vs-蒸し暑い-vs-蒸発-vs-水蒸気) 辨析。 |
+| 🟡 **結構な** | けっこうな | 很好、夠了、極好 (な形容詞/副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#158-構的家族核心畫面構成こうせい-vs-構内こうない-vs-結構けっこう-vs-構うかまう) 辨析。 |
+| 🟡 **遅い** | おそい | 慢的、遲的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#159-遲的時間概念分工遅いおそい-vs-遅れるおくれる-vs-遅刻ちこく) 辨析。 |
+| 🟡 **濃度** | のうど | 濃度 (名詞) | 液体や気体の**濃度**（液體或氣體的濃度）。 |
+| 🟡 **濃い** | こい | 濃的、深色的 (い形容詞) | スープの味が**濃い**（湯的味道很濃）/ 色が**濃い**（顏色很深）。 |
 
 ---
 
