@@ -208,6 +208,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **給与** | きゅうよ | 給與、薪資、報酬 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#143-薪資福利的名詞分工給与きゅうよ與-給料きゅうりょう的語境與週給月給日給後綴) 辨析。 |
 | 🟡 **導入** | どうにゅう | 導入、引進 | 新規システムを**導入**する（引進新系統）。 |
 | 🟡 **指導** | しどう | 指導 | 生徒を**指導**する（指導學生）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#141-導引與道路的字源連結導くみちびく與-道みち的同源關係) 辨析。 |
+| 🟡 **能率** | のうりつ | 效率、能率 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#166-率字的多音字對決りつ比例能率-vs-そつ坦率引率) 辨析。 |
 
 ---
 
@@ -481,6 +482,19 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **輸血** | ゆけつ | 輸血 | **輸血**を受ける（接受輸血）。 |
 | 🟡 **輸入** | ゆにゅう | 輸入、進口 | 石油を**輸入**する（進口石油）。 |
 | 🟡 **輸送** | ゆそう | 輸送、運輸 | 物資を**輸送**する（運輸物資）。 |
+| 🟢 **宇都宮** | うつのみや | 宇都宮（日本栃木縣城市） | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#167-戶的量詞防護與日本地名一戸建て-vs-雨戶-vs-水戶-vs-宇都宮) 說明。 |
+| 🟢 **一戸建て** | いっこだて | 獨棟住宅、透天厝 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#167-戶的量詞防護與日本地名一戸建て-vs-雨戶-vs-水戶-vs-宇都宮) 辨析。 |
+| 🟢 **雨戸** | あまど | 防雨窗、防風拉門 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#167-戶的量詞防護與日本地名一戸建て-vs-雨戶-vs-水戶-vs-宇都宮) 辨析。 |
+| 🟢 **水戸** | みと | 水戶（日本茨城縣城市） | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#167-戶的量詞防護與日本地名一戸建て-vs-雨戶-vs-水戶-vs-宇都宮) 說明。 |
+| 🟢 **一戸** | いっこ | 一戶、一家 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#167-戶的量詞防護與日本地名一戸建て-vs-雨戶-vs-水戶-vs-宇都宮) 辨析。 |
+| 🟢 **晴天** | せいてん | 晴天 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
+| 🟢 **快晴** | かいせい | 快晴、萬里無雲 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
+| 🟢 **曇り** | くもり | 陰天、多雲 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
+| 🟢 **積雪** | せきせつ | 積雪 | 道路の**積雪**（道路積雪）/ **積雪**計（積雪深計）。 |
+| 🟢 **吹雪** | ふぶき | 暴風雪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
+| 🟢 **知恵** | ちえ | 智慧、點子 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
+| 🟢 **恩恵** | おんけい | 恩惠、好處 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
+| 🟢 **雨雲** | あまぐも | 雨雲 | 空に**雨雲**が広がる（天空中雨雲擴散開來）。 |
 
 ---
 
@@ -789,6 +803,9 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **混む** | こむ | 擁擠、擠滿 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#161-混的自他動詞與近義詞分工混ざる-vs-混じる-vs-かき混ぜる-vs-混む) 辨析。 |
 | 🔴 **混乱する** | こんらんする | 混亂 (サ變動詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
 | 🔴 **乱れる** | みだれる | 混亂、紊亂、心神不定 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
+| 🔴 **晴れる** | はれる | 放晴、消除 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
+| 🔴 **曇る** | くもる | 變陰、起霧、模糊 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#170-氣象動詞與狀態辨析快晴-vs-曇る起霧變陰-vs-吹雪暴風雪) 辨析。 |
+| 🔴 **恵まれる** | めぐまれる | 富於、幸運地擁有 (下一自動/被動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#168-惠的讀音與動詞用法恵まれるめぐまれる-vs-知惠ちえ-vs-恩惠けい) 辨析。 |
 
 ---
 
@@ -1084,6 +1101,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **丸い** | まるい | 圓的、球形的 (い形容詞) | **丸い**ボール（圓形的球）/ **丸い**テーブル（圓桌）。 |
 | 🟡 **予め** | あらかじめ | 預先、提前 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#165-預備與先期動作予めあらかじめ-vs-事前に-vs-前もって) 辨析。 |
 | 🟡 **乱暴な** | らんぼうな | 粗暴的、野蠻的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
+| 🟡 **率直に** | そっちょくに | 率直地、坦率地 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#166-率字的多音字對決りつ比例能率-vs-そつ坦率引率) 辨析。 |
+| 🟡 **陽気な** | ようきな | 暖和天氣/開朗個性 (な形容詞/名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#169-陽氣的雙重面貌暖和天氣-vs-開朗個性) 辨析。 |
 
 ---
 
