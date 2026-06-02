@@ -538,6 +538,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **大勢** | おおぜい / たいせい | 很多人 / 大局、趨勢 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#208-勢的讀音與群眾語境姿勢しせい-vs-大勢おおぜい-vs-たいせい-vs-勢いいきおい) 說明。 |
 | 🟢 **耕地** | こうち | 耕地 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#210-耕的農作與耕作土地耕すたがやす與耕地休耕地) 說明。 |
 | 🟢 **休耕地** | きゅうこうち | 休耕地、荒廢農地 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#210-耕的農作與耕作土地耕すたがやす與耕地休耕地) 說明。 |
+| 🟢 **批判** | ひはん | 批判、指責、否定 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#212-詞彙辨析批判與批評到底差在哪批判批評否定-vs-批評客觀評論) 辨析。 |
+| 🟢 **批評** | ひひょう | 批評、客觀評論、評論 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#212-詞彙辨析批判與批評到底差在哪批判批評否定-vs-批評客觀評論) 辨析。 |
+| 🟢 **ひったくり** | ひったくり | 飛車搶劫、強奪皮包 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#216-社會犯罪名詞搶奪ひったくり與動詞-ひったくる-的語境) 說明。 |
+| 🟢 **似顔絵** | にがおえ | 畫像、似顏繪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#218-似的模仿與人像畫似るにる-vs-似顔絵にがおえ-vs-似せる) 說明。 |
+| 🟢 **評価** | ひょうか | 評價、價值評估 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#221-詞彙辨析評價與評判有何區別評價價值評估-vs-評判社會名聲口碑) 辨析。 |
+| 🟢 **評判** | ひょうばん | 評判、名聲、口碑 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#221-詞彙辨析評價與評判有何區別評價價值評估-vs-評判社會名聲口碑) 辨析。 |
 
 ---
 
@@ -888,6 +894,12 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **耕す** | たがやす | 耕作、犁田 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#210-耕的農作與耕作土地耕すたがやす與耕地休耕地) 說明。 |
 | 🔴 **掘る** | ほる | 挖掘 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#211-同音詞ほる的挖掘與雕刻掘るほる-vs-掘り返すほりかえす-及彫る) 說明。 |
 | 🔴 **掘り返す** | ほりかえす | 挖開、翻土、翻舊帳 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#211-同音詞ほる的挖掘與雕刻掘るほる-vs-掘り返すほりかえす-及彫る) 說明。 |
+| 🔴 **敬う** | うやまう | 尊敬、敬重 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#215-敬的尊敬與尊稱敬ううやまう與音讀-敬語敬意) 說明。 |
+| 🔴 **犯す** | おかす | 犯犯、違反 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#219-同音異義字おかす的漢字對決犯す犯罪-vs-冒す冒險-vs-侵す侵害侵犯) 辨析。 |
+| 🔴 **覚ます** | さます | 弄醒、使清醒 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#220-覚的清醒與記憶家族覚めるさめる-vs-覚ますさます-vs-覚える-vs-目覚まし時計) 辨析。 |
+| 🔴 **覚める** | さめる | 醒、醒悟、酒醒 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#220-覚的清醒與記憶家族覚めるさめる-vs-覚ますさます-vs-覚える-vs-目覚まし時計) 辨析。 |
+| 🔴 **自供する** | じきょうする | 招供、坦白 (サ變自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#217-欲望驅使與罪犯口供遊ぶ金欲しさにたさに與自供的結合) 說明。 |
+| 🔴 **似る** | にる | 相似、相像 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#218-似的模仿與人像畫似るにる-vs-似顔絵にがおえ-vs-似せる) 說明。 |
 
 ---
 
@@ -1195,6 +1207,8 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **盛ん** | さかん | 興盛的、流行的、熱烈的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
 | 🟡 **盛大** | せいだい | 盛大的、隆重的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#191-盛的繁榮與狀態讀音盛んさかん-vs-盛るもる-vs-盛大せいだい) 辨析。 |
 | 🟡 **荒い** | あらい | 粗暴的、狂暴的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#209-荒的荒蕪與粗野家族荒いあらい-vs-荒れるあれる-vs-荒らすあらす) 辨析。 |
+| 🟡 **賢明な** | けんめいな | 賢明的、明智的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#213-賢的賢明與聰慧賢いかしこい與音讀-賢明けんめい) 辨析。 |
+| 🟡 **勇ましい** | いさましい | 勇敢的、雄壯的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#214-勇的勇氣與豪邁勇ましいいさましい與音讀-勇気ゆうき) 說明。 |
 
 ---
 
