@@ -199,6 +199,15 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **略歴** | りゃくれき | 簡歷、個人簡歷 | 履歴書に**略歴**を書く（在履歷表上寫簡歷）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#133-縮短與省略的層次略すりゃくす與-省略しょうりゃく略歷りゃくれき) 辨析。 |
 | 🟢 **厚生労働省** | こうせいろうどうしょう | 厚生勞動省 | 日本負責醫療、保健、社會福利、勞動的政府機關。 |
 | 🟢 **改革** | かいかく | 改革 | 制度の**改革**（制度的改革）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
+| 🟡 **求人** | きゅうじん | 招聘、求人 | **求人**広告（招聘廣告）/ **求人**を出す（刊登招聘啟事）。 |
+| 🟡 **請求書** | せいきゅうしょ | 帳單、請款單 | **請求書**を送付する（發送帳單/請款單）。 |
+| 🟡 **供給** | きょうきゅう | 供給、供應 | 需要と**供給**（需求與供給）。 |
+| 🟡 **週給** | しゅうきゅう | 週薪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#143-薪資福利的名詞分工給与きゅうよ與-給料きゅうりょう的語境與週給月給日給後綴) 辨析。 |
+| 🟡 **月給** | げっきゅう | 月薪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#143-薪資福利的名詞分工給与きゅうよ與-給料きゅうりょう的語境與週給月給日給後綴) 辨析。 |
+| 🟡 **日給** | にっきゅう | 日薪 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#143-薪資福利的名詞分工給与きゅうよ與-給料きゅうりょう的語境與週給月給日給後綴) 辨析。 |
+| 🟡 **給与** | きゅうよ | 給與、薪資、報酬 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#143-薪資福利的名詞分工給与きゅうよ與-給料きゅうりょう的語境與週給月給日給後綴) 辨析。 |
+| 🟡 **導入** | どうにゅう | 導入、引進 | 新規システムを**導入**する（引進新系統）。 |
+| 🟡 **指導** | しどう | 指導 | 生徒を**指導**する（指導學生）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#141-導引與道路的字源連結導くみちびく與-道みち的同源關係) 辨析。 |
 
 ---
 
@@ -403,6 +412,11 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **南極** | なんきょく | 南極 | **南極**觀測船（南極觀測船）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#135-多音漢字極的終極對決きょく-vs-ごく-vs-きわみ與月極つきぎめの神秘讀音) 辨析。 |
 | 🟢 **革製** | かわせい | 皮革製 | **革製**的皮包（皮革製皮包）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦にがいくるしいく) 辨析。 |
 | 🟢 **群れ** | むれ | 群體、群 | 鳥の**群れ**（鳥群）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
+| 🟡 **単語** | たんご | 單字、詞彙 | **単語**を覚える（背單字）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
+| 🟡 **単位** | たんい | 單位、學分 | 大学で**単位**を取る（在大學取得學分）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
+| 🟡 **日課** | にっか | 例行公事、每日功課 | 毎朝の散歩が**日課**打（每天早上的散步是例行公事）。 |
+| 🟡 **過程** | かてい | 過程、歷程 | 成長の**過程**（成長的過程）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#142-程的讀音分工與句型結構てい程度過程-vs-ほど程度接續助詞) 辨析。 |
+| 🟡 **基礎** | きそ | 基礎、根本 | **基礎**から学ぶ（從基礎學起）/ **基礎**知識（基礎知識）。 |
 
 ---
 
@@ -680,6 +694,10 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **苦しむ** | くるしむ | 痛苦、受折磨 (五段自動) | 病氣に**苦しむ**（受疾病折磨）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦にがいくるしいく) 辨析。 |
 | 🔴 **群れる** | むれる | 成群、集體行動 (一段自動) | 成群集體行動的動物。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
 | 🔴 **群がる** | むらがる | 蜂擁、圍聚 (五段自動) | 大量昆蟲或粉絲蜂擁圍聚。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#140-聚集與群體的分工群れむれ與-群れるむれる群がるむらがる的狀態與畫面差異) 辨析。 |
+| 🔴 **与える** | あたえる | 給予、提供、造成影響 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#143-薪資福利的名詞分工給与きゅうよ與-給料きゅうりょう的語境與週給月給日給後綴) 辨析。 |
+| 🔴 **応じる** | おうじる | 回應、順應、答應 (一段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#145-應字輩家族的核心畫面応募-vs-一応-vs-應じる-vs-應用) 辨析。 |
+| 🔴 **導く** | みちびく | 引導、指引、帶路 (五段他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#141-導引與道路的字源連結導くみちびく與-道みち的同源關係) 辨析。 |
+| 🟡 **応用** | おうよう | 應用、實用 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#145-應字輩家族的核心畫面応募-vs-一応-vs-應じる-vs-應用) 辨析。 |
 
 ---
 
@@ -963,6 +981,10 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **苦い** | にがい | 苦的、痛苦的 | **苦い**薬（苦藥） / **苦い**経験（痛苦的經驗）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
 | 🟡 **苦しい** | くるしい | 痛苦的、艱難的 | 生活が**苦しい**（生活艱難）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
 | 🟡 **苦痛** | くつう | 痛苦、苦楚 | 精神的な**苦痛**（精神上的痛苦）。詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#139-皮革與苦難的讀音變化革かわかく與-苦に加いくるしいく) 辨析。 |
+| 🟡 **一応** | いちおう | 姑且、大致上 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#145-應字輩家族的核心畫面応募-vs-一応-vs-應じる-vs-應用) 辨析。 |
+| 🟡 **単に** | たんに | 僅僅、只不過是 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
+| 🟡 **単なる** | たんなる | 單純的、僅僅的 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#144-單字輩家族的詞性與用法単語-vs-単に-vs-單位-vs-単なる) 辨析。 |
+| 🟡 **程度** | ていど | 程度、水準 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#142-程的讀音分工與句型結構てい程度過程-vs-ほど程度接續助詞) 辨析。 |
 
 ---
 
