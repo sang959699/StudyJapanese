@@ -459,6 +459,28 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟢 **筆** | ふで | 毛筆、筆 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#160-筆的家族與書寫工器具筆ふで-vs-鉛筆えんぴつ-vs-筆記ひっき-vs-筆者ひっしゃ) 辨析。 |
 | 🟢 **鉛筆** | えんぴつ | 鉛筆 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#160-筆的家族與書寫工器具筆ふで-vs-鉛筆えんぴつ-vs-筆記ひっき-vs-筆者ひっしゃ) 辨析。 |
 | 🟡 **仮免許** | かりめんきょ | 臨時駕照、假執照 | **仮免許**で路上練習をする（用臨時駕照在路上練習）。 |
+| 🟢 **航空機** | こうくうき | 飛機、航空器 | 飛機與直升機等飛行器的正式名稱。 |
+| 🟢 **飛行機** | ひこうき | 飛機 | 一般口語的飛機。 |
+| 🟡 **欠航** | けっこう | 停航、停飛 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#162-交通調度與異常處理運行-vs-運航運休-vs-欠航-及見合わせる) 辨析。 |
+| 🟡 **陸上** | りくじょう | 陸地上、田徑 | **陸上**交通（陸上交通）/ **陸上**競技（田徑運動）。 |
+| 🟢 **大陸** | たいりく | 大陸 | ユーラシア**大陸**（歐亞大陸）。 |
+| 🟡 **損害** | そんがい | 損害、損失 | **損害**を被る（遭受損失）/ **損害**賠償（損害賠償）。 |
+| 🟡 **損得** | そんとく | 得失、利害 | **損得**を考える（考慮得失）。 |
+| 🟡 **損傷** | そんしょう | 損傷、損壞 | 物理上的損壞。例句：車体が**損傷**する（車身受損）。 |
+| 🟡 **気候** | きこう | 氣候 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#163-氣象尺度的大中小區分天氣-vs-天候-vs-氣候) 辨析。 |
+| 🟡 **天候** | てんこう | 天候、天氣狀況 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#163-氣象尺度的大中小區分天氣-vs-天候-vs-氣候) 辨析。 |
+| 🟢 **風船** | ふうせん | 氣球 | **風船**を膨らませる（吹氣球）。 |
+| 🟢 **造船** | ぞうせん | 造船 | **造船**所（造船廠）。 |
+| 🟢 **船便** | ふなびん | 船運、海運 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#162-交通調度與異常處理運行-vs-運航運休-vs-欠航-及見合わせる) 辨析。 |
+| 🟢 **ダイヤ** | だいや | 列車時刻表、班次圖 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#162-交通調度與異常處理運行-vs-運航運休-vs-欠航-及見合わせる) 辨析。 |
+| 🟢 **河川** | かせん | 河川、河流 | **河川**的氾濫（河流氾濫）。 |
+| 🟡 **混雑** | こんざつ | 擁擠、混雜 | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#161-混的自他動詞與近義詞分工混ざる-vs-混じる-vs-かき混ぜる-vs-混む) 辨析。 |
+| 🟡 **故障** | こしょう | 故障 | 機械或電器故障。例句：パソコンが**故障**する（電腦故障）。 |
+| 🟢 **運河** |  うんが | 運河 | スエズ**運河**（蘇伊士運河）。 |
+| 🟡 **輸出** | ゆしゅつ | 輸出、出口 | 車を**輸出**する（出口汽車）。 |
+| 🟢 **輸血** | ゆけつ | 輸血 | **輸血**を受ける（接受輸血）。 |
+| 🟡 **輸入** | ゆにゅう | 輸入、進口 | 石油を**輸入**する（進口石油）。 |
+| 🟡 **輸送** | ゆそう | 輸送、運輸 | 物資を**輸送**する（運輸物資）。 |
 
 ---
 
@@ -760,6 +782,13 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🔴 **遅れる** | おくれる | 遲延、落後、比預定晚 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#159-遲的時間概念分工遅いおそい-vs-遅れるおくれる-vs-遅刻ちこく) 辨析。 |
 | 🔴 **採集する** | さいしゅうする | 採集、收集 (サ變動詞) | 植物の標本を**採集**する（採集植物標本）。 |
 | 🔴 **採る** | とる | 採取、採用、錄取 (五段他動) | 新人社員を**採る**（錄用新員工）。 |
+| 🔴 **運航する** | うんこうする | 航行（飛機或船隻） (サ變動詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#162-交通調度與異常處理運行-vs-運航運休-vs-欠航-及見合わせる) 辨析。 |
+| 🔴 **かき混ぜる** | かきまぜる | 攪拌、混合 (下一他動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#161-混的自他動詞與近義詞分工混ざる-vs-混じる-vs-かき混ぜる-vs-混む) 辨析。 |
+| 🔴 **混じる** | まじる | 混雜、夾雜 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#161-混的自他動詞與近義詞分工混ざる-vs-混じる-vs-かき混ぜる-vs-混む) 辨析。 |
+| 🔴 **混ざる** | まざる | 混合、融合 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#161-混的自他動詞與近義詞分工混ざる-vs-混じる-vs-かき混ぜる-vs-混む) 辨析。 |
+| 🔴 **混む** | こむ | 擁擠、擠滿 (五段自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#161-混的自他動詞與近義詞分工混ざる-vs-混じる-vs-かき混ぜる-vs-混む) 辨析。 |
+| 🔴 **混乱する** | こんらんする | 混亂 (サ變動詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
+| 🔴 **乱れる** | みだれる | 混亂、紊亂、心神不定 (下一自動) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
 
 ---
 
@@ -1052,6 +1081,9 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **遅い** | おそい | 慢的、遲的 (い形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#159-遲的時間概念分工遅いおそい-vs-遅れるおくれる-vs-遅刻ちこく) 辨析。 |
 | 🟡 **濃度** | のうど | 濃度 (名詞) | 液体や気体の**濃度**（液體或氣體的濃度）。 |
 | 🟡 **濃い** | こい | 濃的、深色的 (い形容詞) | スープの味が**濃い**（湯的味道很濃）/ 色が**濃い**（顏色很深）。 |
+| 🟡 **丸い** | まるい | 圓的、球形的 (い形容詞) | **丸い**ボール（圓形的球）/ **丸い**テーブル（圓桌）。 |
+| 🟡 **予め** | あらかじめ | 預先、提前 (副詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#165-預備與先期動作予めあらかじめ-vs-事前に-vs-前もって) 辨析。 |
+| 🟡 **乱暴な** | らんぼうな | 粗暴的、野蠻的 (な形容詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#164-亂的動詞與形容詞分工乱れるみだれる-vs-混乱-vs-乱暴) 辨析。 |
 
 ---
 
