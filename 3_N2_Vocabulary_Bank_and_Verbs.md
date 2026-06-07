@@ -1235,6 +1235,7 @@ N2 考試的詞彙與聽力極其偏愛考查自他動詞。記住：**自動詞
 | 🟡 **平年並み** | へいねんなみ | 與往年相同、平年水準 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#234-並的排列與並列並ぶならぶ-vs-並べるならべる-vs-平年並みへいねんなみ-vs-並木なみき) 說明。 |
 | 🟡 **横ばい** | よこばい | 持平、沒有起伏 (名詞) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#237-數據趨勢描述三横ばいよこばい與一定いってい) 說明。 |
 | 🟡 **一定** | いってい | 一定、固定 (名詞/サ變) | 詳見 [2_N2_Kanji_and_Synonym_Distinctions.md](file:///D:/StudyJapanese/2_N2_Kanji_and_Synonym_Distinctions.md#237-數據趨勢描述三横ばいよこばい與一定いってい) 說明。 |
+| 🟡 **目安** | めやす | 目標、基準、大略的指導方針 | 常用於「～を目安に」（以...為基準/大約）。<br>例：フィルターは、一か月を**目安**に、交換してください。 (濾網請以一個月為基準進行更換。) |
 
 ---
 
