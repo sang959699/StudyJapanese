@@ -67,6 +67,162 @@ def extract_example_sentences(details_text, keyword):
             sentences.append((part, ""))
             
     return sentences
+def extract_grammar_questions(workspace_dir):
+    file1 = os.path.join(workspace_dir, "1_N2_Study_Strategy_and_Grammar.md")
+    file2 = os.path.join(workspace_dir, "2_N2_Kanji_and_Synonym_Distinctions.md")
+    
+    raw_examples = []
+    
+    for file_path in [file1, file2]:
+        if not os.path.exists(file_path):
+            continue
+            
+        with open(file_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+            
+        current_section = "未分類"
+        current_subheading = "未分類"
+        priority = "🔴"  # 預設核心文法
+        
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            
+            if line.startswith("### "):
+                current_section = line[4:].strip()
+                current_subheading = ""
+                # 依據標題重要度設定
+                if "🔴" in line:
+                    priority = "🔴"
+                elif "🟡" in line:
+                    priority = "🟡"
+                elif "🟢" in line:
+                    priority = "🟢"
+                else:
+                    priority = "🔴"
+            elif line.startswith("#### "):
+                current_subheading = line[5:].strip()
+                if "🔴" in line:
+                    priority = "🔴"
+                elif "🟡" in line:
+                    priority = "🟡"
+                elif "🟢" in line:
+                    priority = "🟢"
+                    
+            m_code = re.search(r'`([^`]+)`', line)
+            if m_code:
+                sentence = m_code.group(1).strip()
+                
+                # 提取翻譯
+                translation = ""
+                m_trans = re.search(r'\(([^)]+)\)|（([^）]+)）', line.replace(f"`{sentence}`", ""))
+                if m_trans:
+                    translation = (m_trans.group(1) or m_trans.group(2)).strip()
+                else:
+                    j = i + 1
+                    while j < min(i + 3, len(lines)):
+                        next_line = lines[j].strip()
+                        m_next_trans = re.match(r'^\(([^)]+)\)$|^\（([^）]+)）$', next_line)
+                        if m_next_trans:
+                            translation = (m_next_trans.group(1) or m_next_trans.group(2)).strip()
+                            break
+                        j += 1
+                
+                # 尋找 **...** 或 「...」 標記
+                targets = []
+                bolded = re.findall(r'\*\*([^*]+)\*\*', sentence)
+                if bolded:
+                    targets.extend(bolded)
+                quoted = re.findall(r'「([^」]+)」', sentence)
+                if quoted:
+                    targets.extend(quoted)
+                    
+                if targets and translation:
+                    for target in targets:
+                        clean_sentence = sentence
+                        if f"**{target}**" in clean_sentence:
+                            clean_sentence = clean_sentence.replace(f"**{target}**", "（　　）")
+                        elif f"「{target}」" in clean_sentence:
+                            clean_sentence = clean_sentence.replace(f"「{target}」", "（　　）")
+                        else:
+                            clean_sentence = clean_sentence.replace(target, "（　　）")
+                            
+                        clean_sentence = clean_sentence.replace("**", "").replace("「", "").replace("」", "")
+                        
+                        raw_examples.append({
+                            "section": current_section,
+                            "subheading": current_subheading,
+                            "sentence": sentence,
+                            "clean_sentence": clean_sentence,
+                            "target": target,
+                            "translation": translation,
+                            "priority": priority
+                        })
+            i += 1
+            
+    # 生成題目與干擾選項
+    grammar_qs = []
+    all_targets = list(set([item["target"] for item in raw_examples]))
+    
+    for item in raw_examples:
+        target = item["target"]
+        clean_sentence = item["clean_sentence"]
+        translation = item["translation"]
+        priority = item["priority"]
+        section = item["section"]
+        subheading = item["subheading"]
+        
+        # 尋找 3 個干擾項
+        # 1. 優先尋找包含相同漢字或字符的選項 (如 足元 看 腳...)
+        shared_chars = [c for c in target if not re.match(r'[\u3040-\u309f\u30a0-\u30ff]', c)]
+        
+        distractors_pool = []
+        if shared_chars:
+            for t in all_targets:
+                if t != target and any(c in t for c in shared_chars):
+                    distractors_pool.append(t)
+                    
+        # 2. 其次尋找同一個 section 或 subheading 的其他目標
+        if len(distractors_pool) < 3:
+            local_targets = [r["target"] for r in raw_examples if r["section"] == section and r["target"] != target]
+            for lt in local_targets:
+                if lt not in distractors_pool and lt != target:
+                    distractors_pool.append(lt)
+                    
+        # 3. 再者尋找長度相似的目標
+        if len(distractors_pool) < 3:
+            similar_len = [t for t in all_targets if t != target and abs(len(t) - len(target)) <= 2]
+            for sl in similar_len:
+                if sl not in distractors_pool:
+                    distractors_pool.append(sl)
+                    
+        # 4. 隨機兜底
+        if len(distractors_pool) < 3:
+            for t in all_targets:
+                if t != target and t not in distractors_pool:
+                    distractors_pool.append(t)
+                    
+        if len(distractors_pool) >= 3:
+            distractors = random.sample(distractors_pool, 3)
+        else:
+            distractors = distractors_pool
+            
+        options = distractors + [target]
+        random.shuffle(options)
+        
+        exp_text = f"正確句子：{item['sentence']}\n中文翻譯：{translation}\n文法主題：{section} ➔ {subheading}"
+        
+        grammar_qs.append({
+            "type": "grammar_fill_in",
+            "priority": priority,
+            "question": f"請選擇合適的文法或詞彙填入空格：\n\n『 {clean_sentence} 』",
+            "options": options,
+            "answer": target,
+            "explanation": exp_text
+        })
+        
+    print(f"Generated {len(grammar_qs)} grammar and distinction questions!")
+    return grammar_qs
 
 def main():
     print("Parsing vocabulary notes...")
@@ -298,6 +454,9 @@ def main():
                             "answer": target,
                             "explanation": exp_text
                         })
+
+    grammar_qs = extract_grammar_questions(WORKSPACE_DIR)
+    questions.extend(grammar_qs)
 
     print(f"Generated {len(questions)} quiz questions in total!")
 

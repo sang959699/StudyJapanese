@@ -510,6 +510,14 @@
                     </div>
                     <span class="mode-count" id="count-verbs" style="background: rgba(139, 92, 246, 0.2); color: #a78bfa;">0</span>
                 </button>
+                <!-- 文法與近義詞辨析特訓 -->
+                <button class="mode-btn" id="btn-mode-grammar">
+                    <div class="mode-info">
+                        <span class="mode-name">文法與近義詞辨析特訓 📖</span>
+                        <span class="mode-desc">挑戰語法結構與核心近義/慣用語辨析（包含「～がたい」、「～ごとに」與「手がない」、「足が出る」等系列慣用語）</span>
+                    </div>
+                    <span class="mode-count" id="count-grammar" style="background: rgba(16, 185, 129, 0.2); color: #34d399;">0</span>
+                </button>
                 <button class="mode-btn" id="btn-mode-wrong">
                     <div class="mode-info">
                         <span class="mode-name">錯題本重練</span>
@@ -643,6 +651,9 @@
 
             const verbsCount = questionBank.filter(q => q.type === "verb_fill_in").length;
             document.getElementById("count-verbs").innerText = verbsCount + " 題";
+
+            const grammarCount = questionBank.filter(q => q.type === "grammar_fill_in").length;
+            document.getElementById("count-grammar").innerText = grammarCount + " 題";
             
             // 清理已不存在於題庫中的錯題
             const allQIds = questionBank.map(q => getQuestionId(q));
@@ -664,6 +675,7 @@
                         let modeName = "隨機全刷";
                         if (parsed.currentMode === "priority") modeName = "核心突破";
                         else if (parsed.currentMode === "verbs") modeName = "自他動詞填空";
+                        else if (parsed.currentMode === "grammar") modeName = "文法與近義詞辨析";
                         else if (parsed.currentMode === "wrong") modeName = "錯題重練";
                         document.getElementById("resume-desc").innerText = `恢復 ${modeName} 挑戰 (第 ${parsed.currentIndex + 1}/${parsed.questionsToPlay.length} 題)`;
                     } else {
@@ -716,6 +728,8 @@
                 sourcePool = questionBank.filter(q => q.priority === "🔴" || q.priority === "🟡");
             } else if (mode === "verbs") {
                 sourcePool = questionBank.filter(q => q.type === "verb_fill_in");
+            } else if (mode === "grammar") {
+                sourcePool = questionBank.filter(q => q.type === "grammar_fill_in");
             } else if (mode === "wrong") {
                 sourcePool = questionBank.filter(q => wrongQuestionsIds.includes(getQuestionId(q)));
             }
@@ -972,6 +986,7 @@
         document.getElementById("btn-mode-all").onclick = () => startQuiz("all");
         document.getElementById("btn-mode-priority").onclick = () => startQuiz("priority");
         document.getElementById("btn-mode-verbs").onclick = () => startQuiz("verbs");
+        document.getElementById("btn-mode-grammar").onclick = () => startQuiz("grammar");
         document.getElementById("btn-mode-wrong").onclick = () => startQuiz("wrong");
 
         // 啟動應用
