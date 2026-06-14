@@ -518,6 +518,14 @@
                     </div>
                     <span class="mode-count" id="count-grammar" style="background: rgba(16, 185, 129, 0.2); color: #34d399;">0</span>
                 </button>
+                <!-- 排列組合星星題特訓 -->
+                <button class="mode-btn" id="btn-mode-stars">
+                    <div class="mode-info">
+                        <span class="mode-name">排列組合星星題特訓 🌟</span>
+                        <span class="mode-desc">針對你的弱點，進行句子排列組合（星星題）專項練習，熟悉日語句子語序與接續</span>
+                    </div>
+                    <span class="mode-count" id="count-stars" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24;">0 題</span>
+                </button>
                 <button class="mode-btn" id="btn-mode-wrong">
                     <div class="mode-info">
                         <span class="mode-name">錯題本重練</span>
@@ -654,6 +662,9 @@
 
             const grammarCount = questionBank.filter(q => q.type === "grammar_fill_in").length;
             document.getElementById("count-grammar").innerText = grammarCount + " 題";
+
+            const starsCount = questionBank.filter(q => q.type === "star_question").length;
+            document.getElementById("count-stars").innerText = starsCount + " 題";
             
             // 清理已不存在於題庫中的錯題
             const allQIds = questionBank.map(q => getQuestionId(q));
@@ -676,6 +687,7 @@
                         if (parsed.currentMode === "priority") modeName = "核心突破";
                         else if (parsed.currentMode === "verbs") modeName = "自他動詞填空";
                         else if (parsed.currentMode === "grammar") modeName = "文法與近義詞辨析";
+                        else if (parsed.currentMode === "stars") modeName = "排列組合星星題";
                         else if (parsed.currentMode === "wrong") modeName = "錯題重練";
                         document.getElementById("resume-desc").innerText = `恢復 ${modeName} 挑戰 (第 ${parsed.currentIndex + 1}/${parsed.questionsToPlay.length} 題)`;
                     } else {
@@ -730,6 +742,8 @@
                 sourcePool = questionBank.filter(q => q.type === "verb_fill_in");
             } else if (mode === "grammar") {
                 sourcePool = questionBank.filter(q => q.type === "grammar_fill_in");
+            } else if (mode === "stars") {
+                sourcePool = questionBank.filter(q => q.type === "star_question");
             } else if (mode === "wrong") {
                 sourcePool = questionBank.filter(q => wrongQuestionsIds.includes(getQuestionId(q)));
             }
@@ -987,6 +1001,7 @@
         document.getElementById("btn-mode-priority").onclick = () => startQuiz("priority");
         document.getElementById("btn-mode-verbs").onclick = () => startQuiz("verbs");
         document.getElementById("btn-mode-grammar").onclick = () => startQuiz("grammar");
+        document.getElementById("btn-mode-stars").onclick = () => startQuiz("stars");
         document.getElementById("btn-mode-wrong").onclick = () => startQuiz("wrong");
 
         // 啟動應用

@@ -72,6 +72,7 @@ def extract_grammar_questions(workspace_dir):
     file2 = os.path.join(workspace_dir, "2_N2_Kanji_and_Synonym_Distinctions.md")
     
     raw_examples = []
+    grammar_qs = []
     
     for file_path in [file1, file2]:
         if not os.path.exists(file_path):
@@ -128,6 +129,48 @@ def extract_grammar_questions(workspace_dir):
                             break
                         j += 1
                 
+                # 判斷是否為排列組合星星題 (Scrambled/Star question)
+                # 例如：`男は [意味] [ありげな] [★笑いを] [浮かべた]`
+                brackets = re.findall(r'\[([^\]]+)\]', sentence)
+                if brackets and len(brackets) == 4 and any(b.startswith("★") for b in brackets):
+                    star_item = [b for b in brackets if b.startswith("★")][0]
+                    answer = star_item.replace("★", "").strip()
+                    
+                    # 獲取去掉★的乾淨選項
+                    clean_options = [b.replace("★", "").strip() for b in brackets]
+                    
+                    # 打亂選項順序作為按鈕選項
+                    shuffled_options = list(clean_options)
+                    random.shuffle(shuffled_options)
+                    
+                    # 生成替換後的題目句子 (例如：男は ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿)
+                    clean_sentence = sentence
+                    for b in brackets:
+                        if b.startswith("★"):
+                            clean_sentence = clean_sentence.replace(f"[{b}]", " ＿★＿ ")
+                        else:
+                            clean_sentence = clean_sentence.replace(f"[{b}]", " ＿＿＿ ")
+                    
+                    # 將選項列在題目中
+                    prefixes = ["①", "②", "③", "④"]
+                    options_list_str = "\n".join([f"{prefixes[idx]} {opt}" for idx, opt in enumerate(shuffled_options)])
+                    
+                    question_text = f"【排列組合星星題】請重組句子，並選擇填入 ★ 位置的選項：\n\n『 {clean_sentence.strip()} 』\n\n可選詞語：\n{options_list_str}"
+                    
+                    correct_sentence = sentence.replace("[", "").replace("]", "").replace("★", "")
+                    explanation = f"正確句子：{correct_sentence}\n中文翻譯：{translation}\n重組順序：{ ' ➔ '.join(clean_options) }\n文法主題：{current_section} ➔ {current_subheading}"
+                    
+                    grammar_qs.append({
+                        "type": "star_question",
+                        "priority": priority,
+                        "question": question_text,
+                        "options": shuffled_options,
+                        "answer": answer,
+                        "explanation": explanation
+                    })
+                    i += 1
+                    continue
+
                 # 尋找 **...** 或 「...」 標記
                 targets = []
                 bolded = re.findall(r'\*\*([^*]+)\*\*', sentence)
@@ -160,8 +203,7 @@ def extract_grammar_questions(workspace_dir):
                         })
             i += 1
             
-    # 生成題目與干擾選項
-    grammar_qs = []
+    # grammar_qs is already initialized above and contains star questions
     all_targets = list(set([item["target"] for item in raw_examples]))
     
     for item in raw_examples:
