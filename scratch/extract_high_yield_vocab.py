@@ -75,7 +75,7 @@ for headers, cells in red_vocab:
 
 print(f"Grouped: {len(trans_intra_pairs)} self/other pairs, {len(regular_vocab)} regular vocabulary items.")
 
-# Format to markdown
+# Format to markdown (use only LF '\n' for clean newlines)
 output_content = """# 🏆 JLPT N2 考前最後衝刺：核心漢字與詞彙秒殺清單 (高頻大詞庫版)
 
 親愛的同學，明天就是 JLPT 日檢考試了！這份複習清單已為你從厚重的筆記中，**自動篩選並提取出所有標註為高頻（🔴 紅圈）的核心自他動詞、高頻單字、副詞與接續詞**。
@@ -106,7 +106,7 @@ output_content = """# 🏆 JLPT N2 考前最後衝刺：核心漢字與詞彙秒
 | **かける** | **掛ける** | **物理吊掛、蓋被子、澆醬汁、乘法、花費**。 | 壁に絵を**掛ける** / 布団を**掛ける** / 3に5を**掛ける** |
 | | **懸ける** | **賭上無形物 (生命/名譽/勝負)**。 | 命を**懸ける** / 名誉を**懸ける** / **～にかけては** (在……方面無敵) |
 | | **賭ける** | **賭博有形金錢、財產** (貝字旁與錢有關)。 | お金を**賭ける** / 競馬に金を**賭ける** |
-| | **駆ける** | **騰空飛奔、跑步** (馬字旁)。 | 草原を**駆ける** / 駆け足 (小跑) / 駆け上がる (跑上樓) |
+| | **駆ける** | **騰空飛奔、跑步** (馬字旁)。 |草原を**駆ける** / 駆け足 (小跑) / 駆け上がる (跑上樓) |
 | | **欠ける** | **物品破損缺口、缺乏**。 | 茶碗が**欠ける** / 常識に**欠ける** (缺乏常識) |
 | **うかがう** | **伺う** | **謙讓語**：去拜訪、詢問、聽說。 | お宅に**伺う** (去您家拜訪) / お話を聞きに**伺う** |
 | | **窺う** | **窺視、暗中觀察、伺機而動**。 | 様子を**窺う** (觀察動靜) / チャンスを**窺う** (尋找機會) |
@@ -157,7 +157,7 @@ output_content += """
 *   👉 **こもる（籠る）**：指熱情、心意、情感「充沛地融入在某事物中」。
 *   *考點（必背搭配）*：
     *   `心の**こもった**贈り物` (誠心誠意的禮物)
-    *   `愛情 of **こもった**手料理` (充滿愛心的手作料理)
+    *   `愛情の**こもった**手料理` (充滿愛心的手作料理)
     *   `熱の**こもった**演説` (熱情洋溢的演說)
 
 ### 4. 準備與調和的自他動詞：整う（ととのう） vs 整える（ととのえる）
@@ -230,7 +230,7 @@ output_content += """
    * 例如：`かける` ➔ 畫面是「懸空、吊掛、跨越」。
    * `はる` ➔ 畫面是「撐開、拉平、張網」。
    * `ぬく` ➔ 畫面是「穿透、拔出、越過」。
-   運用大和語的核心物理畫面，去對推漢字的意思，正確率會極高！
+   運用大和語的核心物理畫面，去對推漢字的意思，整率會極高！
 
 **放鬆心情，正常發揮！明天你一定可以順利合格！加油！🏆🌸**
 """
@@ -238,7 +238,12 @@ output_content += """
 # Let's fix small typos in templates:
 output_content = output_content.replace("愛情 of **こもった**手料理", "愛情の**こもった**手料理")
 
-with open(review_file_path, "w", encoding="utf-8") as f:
-    f.write(output_content.replace("\n", "\r\n"))
+# Normalize mixed line endings to LF first
+output_content_normalized = output_content.replace("\r\n", "\n").replace("\r", "\n")
 
-print("Successfully compiled and updated review sheet with complete Section 2!")
+# Write to file with newline="" (this tells Python to write the string's LF '\n' without converting to CRCRLF or CR)
+# In Python 3, if newline="" is passed to open(), it maps '\n' to system default line ending (CRLF on Windows) perfectly!
+with open(review_file_path, "w", newline="", encoding="utf-8") as f:
+    f.write(output_content_normalized)
+
+print("Successfully compiled and updated review sheet with clean line endings!")
